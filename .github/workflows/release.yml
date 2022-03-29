@@ -1,0 +1,31 @@
+name: Create Release
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - id: compute_tag
+        uses: craig-day/compute-tag@v10
+        with:
+          github_token: ${{ github.token }}
+          version_type: patch
+          version_scheme: semantic
+      - name: Setup Python
+        uses: actions/setup-python@v3.0.0
+      - run: python package.py
+      - name: create release
+        uses: ncipollo/release-action@v1.9.0
+        with:
+          tag: ${{ steps.compute_tag.outputs.next_tag }}
+          commit: ${{ github.sha }}
+          body: >
+            Automatic release of ${{ steps.compute_tag.outputs.next_tag }}
+          artifacts: "*.zip, *.json"
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
