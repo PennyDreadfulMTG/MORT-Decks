@@ -5,11 +5,11 @@ Selesnya_Tokens
 4 Gideon, Ally of Zendikar
 1 Chandra, Flamecaller
 4 Archangel Avacyn
-3 Den Protector
-4 Hangarback Walker
+2 Den Protector
+3 Hangarback Walker
 4 Sylvan Advocate
 2 Lambholt Pacifist
-3 Secure the Wastes
+2 Secure the Wastes
 4 Dromoka's Command
 4 Oath of Nissa
 1 Stasis Snare
@@ -18,6 +18,10 @@ Selesnya_Tokens
 4 Fortified Village
 7 Plains
 7 Forest
+Sideboard
+1 Den Protector
+1 Hangarback Walker
+1 Secure the Wastes
 3 Tragic Arrogance
 2 Declaration in Stone
 2 Evolutionary Leap

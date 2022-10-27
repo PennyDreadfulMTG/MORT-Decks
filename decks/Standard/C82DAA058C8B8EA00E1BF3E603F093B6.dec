@@ -8,11 +8,11 @@ UB_Control
 3 Torrential Gearhulk
 3 Censor
 3 Disallow
-3 Essence Extraction
+2 Essence Extraction
 3 Essence Scatter
 4 Fatal Push
 4 Glimmer of Genius
-3 Negate
+1 Negate
 3 Supreme Will
 3 Vraska's Contempt
 1 Treasure Map
@@ -20,8 +20,11 @@ UB_Control
 4 Drowned Catacomb
 3 Evolving Wilds
 4 Fetid Pools
+Sideboard
 2 Jace's Defeat
 4 Gifted Aetherborn
 3 Duress
 2 Deadeye Tracker
 1 Bontu's Last Reckoning
+1 Essence Extraction
+2 Negate

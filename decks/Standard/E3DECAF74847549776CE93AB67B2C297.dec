@@ -1,6 +1,6 @@
 2013-11-23T00:00:00
 Standard
-Golgari_Control
+Golgari_Aggro
 1 Putrefy
 2 Polukranos, World Eater
 4 Boon Satyr
@@ -10,7 +10,7 @@ Golgari_Control
 4 Elvish Mystic
 4 Overgrown Tomb
 3 Abrupt Decay
-3 Golgari Charm
+1 Golgari Charm
 2 Hero's Downfall
 3 Thoughtseize
 4 Dreg Mangler
@@ -19,6 +19,8 @@ Golgari_Control
 7 Swamp
 8 Forest
 3 Varolz, the Scar-Striped
+Sideboard
+2 Golgari Charm
 2 Duress
 1 Vraska the Unseen
 1 Dark Betrayal

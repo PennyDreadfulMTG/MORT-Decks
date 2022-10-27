@@ -1,6 +1,6 @@
 2009-02-21T00:00:00
 Extended
-Elves_!
+Entity_Elves
 4 Glimpse of Nature
 4 Chord of Calling
 4 Heritage Druid
@@ -14,7 +14,7 @@ Elves_!
 3 Forest
 3 Windswept Heath
 3 Summoner's Pact
-4 Thoughtseize
+2 Thoughtseize
 2 Horizon Canopy
 2 Wooded Foothills
 1 Mirror Entity
@@ -22,6 +22,8 @@ Elves_!
 1 Temple Garden
 1 Pendelhaven
 1 Overgrown Tomb
+Sideboard
+2 Thoughtseize
 3 Viridian Shaman
 2 Umezawa's Jitte
 2 Mycoloth

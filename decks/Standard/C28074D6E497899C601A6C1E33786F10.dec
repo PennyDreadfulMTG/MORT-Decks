@@ -3,16 +3,16 @@ Standard
 Jeskai_Midrange
 4 Goblin Rabblemaster
 4 Mantis Rider
-4 Soulfire Grand Master
+3 Soulfire Grand Master
 3 Monastery Mentor
 1 Seeker of the Way
 2 Brimaz, King of Oreskos
 1 Alesha, Who Smiles at Death
-4 Stoke the Flames
+3 Stoke the Flames
 4 Lightning Strike
 4 Wild Slash
 4 Jeskai Charm
-4 Gods Willing
+3 Gods Willing
 2 Island
 2 Mountain
 2 Plains
@@ -22,6 +22,10 @@ Jeskai_Midrange
 3 Shivan Reef
 1 Temple of Epiphany
 4 Mystic Monastery
+Sideboard
+1 Soulfire Grand Master
+1 Stoke the Flames
+1 Gods Willing
 2 Hushwing Gryff
 1 Valorous Stance
 2 Negate

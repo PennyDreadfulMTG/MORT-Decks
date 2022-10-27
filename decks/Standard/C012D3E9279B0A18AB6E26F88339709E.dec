@@ -1,6 +1,6 @@
 2012-11-17T00:00:00
 Standard
-Jund_Midrange
+Jund_Control
 4 Blood Crypt
 1 Cavern of Souls
 4 Dragonskull Summit
@@ -9,13 +9,13 @@ Jund_Midrange
 4 Overgrown Tomb
 4 Rootbound Crag
 4 Woodland Cemetery
-4 Deathrite Shaman
+2 Deathrite Shaman
 4 Huntmaster of the Fells
-3 Olivia Voldaren
+2 Olivia Voldaren
 4 Thragtusk
 2 Thundermaw Hellkite
 2 Abrupt Decay
-2 Bonfire of the Damned
+1 Bonfire of the Damned
 2 Dreadbore
 4 Farseek
 2 Mizzium Mortars
@@ -24,6 +24,10 @@ Jund_Midrange
 2 Sever the Bloodline
 1 Ultimate Price
 2 Garruk, Primal Hunter
+Sideboard
+2 Deathrite Shaman
+1 Olivia Voldaren
+1 Bonfire of the Damned
 2 Appetite for Brains
 2 Duress
 1 Liliana of the Veil

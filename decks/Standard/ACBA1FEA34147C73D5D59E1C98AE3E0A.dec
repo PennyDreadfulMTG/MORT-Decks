@@ -1,6 +1,6 @@
 2011-07-07T00:00:00
 Standard
-UR_Exarch
+UR_Exarch_Twin
 3 Evolving Wilds
 4 Halimar Depths
 4 Island
@@ -8,7 +8,7 @@ UR_Exarch
 4 Scalding Tarn
 4 Deceiver Exarch
 1 Deprive
-4 Dispel
+2 Dispel
 4 Gitaxian Probe
 2 Into the Roil
 4 Jace Beleren
@@ -17,6 +17,8 @@ UR_Exarch
 4 See Beyond
 3 Spell Pierce
 4 Splinter Twin
+Sideboard
+2 Dispel
 4 Combust
 4 Dragon's Claw
 4 Twisted Image

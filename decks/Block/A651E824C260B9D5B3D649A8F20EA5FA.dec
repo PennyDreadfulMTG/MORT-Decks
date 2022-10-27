@@ -1,6 +1,6 @@
 2006-06-18T00:00:00
 Block
-WGB_Midrange
+GWB_Midrange
 6 Forest
 2 Godless Shrine
 1 Golgari Rot Farm
@@ -14,8 +14,8 @@ WGB_Midrange
 4 Carven Caryatid
 2 Grave-Shell Scarab
 4 Loxodon Hierarch
-3 Skeletal Vampire
-3 Woebringer Demon
+2 Skeletal Vampire
+1 Woebringer Demon
 4 Castigate
 1 Congregation at Dawn
 1 Debtors' Knell
@@ -23,6 +23,9 @@ WGB_Midrange
 2 Orzhov Signet
 4 Putrefy
 4 Rolling Spoil
+Sideboard
+1 Skeletal Vampire
+2 Woebringer Demon
 4 Caustic Rain
 2 Crime / Punishment
 1 Indrik Stomphowler

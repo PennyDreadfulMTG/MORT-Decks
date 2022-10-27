@@ -19,8 +19,8 @@ BUG_Fish
 3 Mental Misstep
 4 Force of Will
 4 Abrupt Decay
-2 Scavenging Ooze
-2 Trygon Predator
+1 Scavenging Ooze
+1 Trygon Predator
 2 True-Name Nemesis
 3 Snapcaster Mage
 4 Deathrite Shaman
@@ -32,6 +32,7 @@ BUG_Fish
 3 Polluted Delta
 3 Wasteland
 4 Underground Sea
+Sideboard
 2 Dismember
 2 Grafdigger's Cage
 1 Null Rod
@@ -39,3 +40,5 @@ BUG_Fish
 2 Energy Flux
 1 Curse of Death's Hold
 2 Nature's Claim
+1 Scavenging Ooze
+1 Trygon Predator

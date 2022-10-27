@@ -1,6 +1,6 @@
 2018-05-19T00:00:00
 Standard
-Dimir_Midrange
+Ubg_Midrange
 4 Aether Hub
 4 Woodland Cemetery
 4 Drowned Catacomb
@@ -9,9 +9,9 @@ Dimir_Midrange
 1 Torrential Gearhulk
 1 Muldrotha, the Gravetide
 2 Liliana, Death's Majesty
-3 The Scarab God
+2 The Scarab God
 2 Ravenous Chupacabra
-4 Vraska's Contempt
+3 Vraska's Contempt
 2 Hostage Taker
 1 Commit / Memory
 4 Champion of Wits
@@ -24,6 +24,9 @@ Dimir_Midrange
 3 Island
 5 Swamp
 1 Ifnir Deadlands
+Sideboard
+1 The Scarab God
+1 Vraska's Contempt
 2 Gonti, Lord of Luxury
 1 Arguel's Blood Fast
 3 Negate

@@ -1,6 +1,6 @@
 2016-12-11T00:00:00
 Legacy
-BUG_Aggro_/_Midrange
+Shardless_BUG
 2 Wasteland
 4 Verdant Catacombs
 3 Underground Sea
@@ -16,7 +16,7 @@ BUG_Aggro_/_Midrange
 1 Jace, the Mind Sculptor
 3 Hymn to Tourach
 1 Forest
-4 Force of Will
+3 Force of Will
 4 Deathrite Shaman
 1 Creeping Tar Pit
 4 Brainstorm
@@ -24,6 +24,7 @@ BUG_Aggro_/_Midrange
 3 Baleful Strix
 4 Ancestral Vision
 4 Abrupt Decay
+Sideboard
 2 Vendilion Clique
 2 Thoughtseize
 1 Sylvan Library
@@ -33,3 +34,4 @@ BUG_Aggro_/_Midrange
 1 Grafdigger's Cage
 1 Golgari Charm
 2 Disfigure
+1 Force of Will

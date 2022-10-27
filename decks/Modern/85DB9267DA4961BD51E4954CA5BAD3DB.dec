@@ -1,6 +1,6 @@
 2018-12-01T00:00:00
 Modern
-***Jeskai Control
+Jeskai_Control
 1 Mana Leak
 2 Logic Knot
 3 Lightning Helix
@@ -9,7 +9,7 @@ Modern
 3 Electrolyze
 3 Cryptic Command
 1 Sulfur Falls
-2 Negate
+1 Negate
 4 Path to Exile
 1 Settle the Wreckage
 2 Search for Azcanta
@@ -29,6 +29,8 @@ Modern
 3 Teferi, Hero of Dominaria
 1 Vendilion Clique
 4 Snapcaster Mage
+Sideboard
+1 Negate
 1 Baneslayer Angel
 3 Rest in Peace
 2 Stony Silence

@@ -1,6 +1,6 @@
 2009-05-16T00:00:00
 Standard
-WR_Vengeant
+Aggro_Cruise
 1 Rugged Prairie
 1 Windbrisk Heights
 2 Banefire
@@ -10,7 +10,7 @@ WR_Vengeant
 3 Burrenton Forge-Tender
 3 Reveillark
 3 Battlefield Forge
-4 Stillmoon Cavalier
+3 Stillmoon Cavalier
 4 Figure of Destiny
 4 Mogg Fanatic
 4 Incinerate
@@ -18,7 +18,9 @@ WR_Vengeant
 4 Path to Exile
 8 Mountain
 10 Plains
+Sideboard
 2 Pithing Needle
 4 Celestial Purge
 4 Guttural Response
 4 Volcanic Fallout
+1 Stillmoon Cavalier

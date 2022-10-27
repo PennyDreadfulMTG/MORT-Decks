@@ -1,7 +1,7 @@
 2010-12-12T00:00:00
 Extended
-GW_Trap_Ramp
-3 Baneslayer Angel
+G/W_Trap
+2 Baneslayer Angel
 4 Birds of Paradise
 4 Forest
 3 Iona, Shield of Emeria
@@ -18,9 +18,12 @@ GW_Trap_Ramp
 2 Sejiri Steppe
 1 Stirring Wildwood
 4 Summoning Trap
-2 Tectonic Edge
+1 Tectonic Edge
 4 Verdant Catacombs
 3 Windbrisk Heights
+Sideboard
+1 Baneslayer Angel
+1 Tectonic Edge
 3 Burrenton Forge-Tender
 3 Cloudthresher
 2 Day of Judgment

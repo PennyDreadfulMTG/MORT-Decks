@@ -1,6 +1,16 @@
 2018-12-09T00:00:00
 Duel
 Commander_4-colored_Control
+1 Lightning Helix
+1 Lightning Bolt
+1 Kolaghan's Command
+1 Jace, the Mind Sculptor
+1 Izzet Signet
+1 Spell Snare
+1 Pyroclasm
+1 Teferi, Hero of Dominaria
+1 Ponder
+1 Dimir Signet
 1 Daretti, Ingenious Iconoclast
 1 Damnation
 1 Counterspell
@@ -12,7 +22,7 @@ Commander_4-colored_Control
 1 Oblivion Ring
 1 Ajani Vengeant
 1 Chain Lightning
-1 Swords to Plowshares
+1 Wrath of God
 1 Inquisition of Kozilek
 1 Go for the Throat
 1 Force of Will
@@ -25,30 +35,7 @@ Commander_4-colored_Control
 1 Thoughtseize
 1 Tainted Pact
 1 Terminate
-1 Azorius Signet
-1 Dimir Signet
-1 Chainer's Edict
-1 Detention Sphere
-1 Demonic Tutor
-1 Orzhov Signet
-1 Mystic Confluence
-1 Miscalculation
-1 Mental Misstep
-1 Memory Lapse
-1 Chandra, Flamecaller
-1 Mana Tithe
-1 Mana Leak
-1 Liliana of the Veil
-1 Lightning Helix
-1 Lightning Bolt
-1 Kolaghan's Command
-1 Jace, the Mind Sculptor
-1 Izzet Signet
-1 Spell Snare
-1 Pyroclasm
-1 Teferi, Hero of Dominaria
-1 Ponder
-1 Wrath of God
+1 Swords to Plowshares
 1 Vindicate
 1 Rakdos Signet
 1 Preordain
@@ -58,23 +45,6 @@ Commander_4-colored_Control
 1 Kess, Dissident Mage
 1 Jace, Vryn's Prodigy
 1 Snapcaster Mage
-1 Concealed Courtyard
-1 Command Tower
-1 Battlefield Forge
-1 Celestial Colonnade
-1 Badlands
-1 Swamp
-1 Blackcleave Cliffs
-1 Blood Crypt
-1 Bloodstained Mire
-1 Cascade Bluffs
-1 Caves of Koilos
-1 Inspiring Vantage
-1 Hallowed Fountain
-1 Godless Shrine
-1 Flooded Strand
-1 Darkslick Shores
-1 Arid Mesa
 1 Tundra
 1 Plateau
 1 Plains
@@ -86,7 +56,6 @@ Commander_4-colored_Control
 1 Island
 1 Marsh Flats
 1 Polluted Delta
-1 Spirebluff Canal
 1 Shivan Reef
 1 Scrubland
 1 Shambling Vent
@@ -99,6 +68,37 @@ Commander_4-colored_Control
 1 Underground Sea
 1 Verdant Catacombs
 1 Sacred Foundry
+1 Spirebluff Canal
+1 Concealed Courtyard
+1 Command Tower
+1 Battlefield Forge
+1 Arid Mesa
+1 Badlands
+1 Swamp
+1 Blackcleave Cliffs
+1 Blood Crypt
+1 Bloodstained Mire
+1 Cascade Bluffs
+1 Caves of Koilos
+1 Inspiring Vantage
+1 Hallowed Fountain
+1 Godless Shrine
+1 Azorius Signet
+1 Chainer's Edict
+1 Detention Sphere
+1 Demonic Tutor
+1 Orzhov Signet
+1 Mystic Confluence
+1 Miscalculation
+1 Mental Misstep
+1 Memory Lapse
+1 Chandra, Flamecaller
+1 Mana Tithe
+1 Mana Leak
+1 Liliana of the Veil
+1 Flooded Strand
+1 Darkslick Shores
+1 Celestial Colonnade
 Sideboard
-1 Kraum, Ludevic's Opus
 1 Tymna the Weaver
+1 Kraum, Ludevic's Opus

@@ -1,6 +1,6 @@
 2014-07-14T00:00:00
 Vintage
-UR_Delver
+UR_Aggro
 1 Ancestral Recall
 1 Mox Ruby
 1 Steel Sabotage
@@ -12,7 +12,7 @@ UR_Delver
 1 Brainstorm
 1 Black Lotus
 2 Spell Pierce
-3 Flusterstorm
+2 Flusterstorm
 2 Ancient Grudge
 4 Preordain
 4 Mental Misstep
@@ -26,6 +26,7 @@ UR_Delver
 3 Island
 4 Misty Rainforest
 4 Volcanic Island
+Sideboard
 1 Grim Lavamancer
 4 Grafdigger's Cage
 1 Mountain
@@ -33,3 +34,4 @@ UR_Delver
 4 Ravenous Trap
 1 Rebuild
 1 Trygon Predator
+1 Flusterstorm

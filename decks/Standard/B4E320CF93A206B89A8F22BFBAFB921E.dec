@@ -1,6 +1,6 @@
 2010-11-07T00:00:00
 Standard
-UW_Control
+Luminarch_UW_Control
 4 Celestial Colonnade
 4 Glacial Fortress
 5 Island
@@ -10,16 +10,20 @@ UW_Control
 4 Tectonic Edge
 4 Wall of Omens
 3 Cancel
-3 Condemn
-4 Day of Judgment
+2 Condemn
+3 Day of Judgment
 2 Deprive
 1 Gideon Jura
 1 Into the Roil
 3 Jace, the Mind Sculptor
-4 Luminarch Ascension
+3 Luminarch Ascension
 4 Mana Leak
 4 Oust
 4 Preordain
+Sideboard
+1 Condemn
+1 Day of Judgment
+1 Luminarch Ascension
 4 Flashfreeze
 3 Kor Sanctifiers
 2 Negate

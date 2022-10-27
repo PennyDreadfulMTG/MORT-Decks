@@ -1,7 +1,7 @@
 2013-02-25T00:00:00
 Block
 Bant_Midrange
-3 Angel of Serenity
+2 Angel of Serenity
 3 Armada Wurm
 4 Centaur Healer
 4 Gyre Sage
@@ -10,7 +10,7 @@ Bant_Midrange
 2 Prime Speaker Zegana
 2 Trostani, Selesnya's Voice
 2 Detention Sphere
-4 Selesnya Charm
+1 Selesnya Charm
 3 Sphinx's Revelation
 2 Urban Evolution
 4 Temple Garden
@@ -22,6 +22,9 @@ Bant_Midrange
 2 Forest
 4 Breeding Pool
 3 Azorius Guildgate
+Sideboard
+1 Angel of Serenity
+3 Selesnya Charm
 1 Dispel
 1 Fathom Mage
 3 Jace, Architect of Thought

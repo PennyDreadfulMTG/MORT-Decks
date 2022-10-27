@@ -5,8 +5,8 @@ UB_Control
 5 Swamp
 5 Island
 2 Ugin, the Spirit Dragon
-3 Ashiok, Nightmare Weaver
-3 Crux of Fate
+2 Ashiok, Nightmare Weaver
+2 Crux of Fate
 4 Dissolve
 1 Silence the Believers
 4 Dig Through Time
@@ -14,7 +14,7 @@ UB_Control
 4 Hero's Downfall
 3 Jace's Ingenuity
 4 Bile Blight
-2 Perilous Vault
+1 Perilous Vault
 1 Pearl Lake Ancient
 1 Flooded Strand
 4 Polluted Delta
@@ -22,6 +22,10 @@ UB_Control
 1 Bloodstained Mire
 4 Temple of Deceit
 1 Urborg, Tomb of Yawgmoth
+Sideboard
+1 Ashiok, Nightmare Weaver
+1 Crux of Fate
+1 Perilous Vault
 2 Negate
 1 Murderous Cut
 2 Tasigur, the Golden Fang

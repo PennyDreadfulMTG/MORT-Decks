@@ -1,6 +1,6 @@
 2016-10-16T00:00:00
 Standard
-Orzhov_Aggro
+BW_control
 1 Concealed Courtyard
 1 Forsaken Sanctuary
 2 Blighted Fen
@@ -13,15 +13,19 @@ Orzhov_Aggro
 3 Gideon, Ally of Zendikar
 3 Liliana, the Last Hope
 2 Oath of Liliana
-3 Anguished Unmaking
+2 Anguished Unmaking
 2 Blessed Alliance
 2 Murder
 3 Grasp of Darkness
 3 Succumb to Temptation
 2 Collective Brutality
-3 Fumigate
-3 Ruinous Path
+2 Fumigate
+2 Ruinous Path
 2 Transgress the Mind
+Sideboard
+1 Anguished Unmaking
+1 Fumigate
+1 Ruinous Path
 2 Flaying Tendrils
 1 Linvala, the Preserver
 2 Kambal, Consul of Allocation

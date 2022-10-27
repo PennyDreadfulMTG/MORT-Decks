@@ -12,7 +12,7 @@ UW_Control
 2 Syncopate
 3 Dissolve
 4 Detention Sphere
-2 Deicide
+1 Deicide
 4 Azorius Charm
 1 Aetherling
 1 Temple of Silence
@@ -22,6 +22,7 @@ UW_Control
 4 Plains
 3 Mutavault
 4 Island
+Sideboard
 1 Pithing Needle
 2 Negate
 1 Heliod, God of the Sun
@@ -31,3 +32,4 @@ UW_Control
 2 Dispel
 1 Fated Retribution
 2 Gainsay
+1 Deicide

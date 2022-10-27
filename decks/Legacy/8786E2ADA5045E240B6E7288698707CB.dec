@@ -1,6 +1,6 @@
 2016-09-10T00:00:00
 Legacy
-BUG_Aggro_/_Midrange
+Shardless_BUG
 1 Wasteland
 3 Verdant Catacombs
 3 Underground Sea
@@ -12,7 +12,7 @@ BUG_Aggro_/_Midrange
 1 Forest
 1 Creeping Tar Pit
 3 Bayou
-2 Toxic Deluge
+1 Toxic Deluge
 1 Maelstrom Pulse
 3 Hymn to Tourach
 4 Force of Will
@@ -25,6 +25,7 @@ BUG_Aggro_/_Midrange
 4 Deathrite Shaman
 2 Baleful Strix
 2 Jace, the Mind Sculptor
+Sideboard
 1 Thoughtseize
 1 Sylvan Library
 1 Surgical Extraction
@@ -36,3 +37,4 @@ BUG_Aggro_/_Midrange
 1 Dread of Night
 2 Disfigure
 1 Chill
+1 Toxic Deluge

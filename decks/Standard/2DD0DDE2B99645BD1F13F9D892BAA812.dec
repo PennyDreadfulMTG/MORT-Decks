@@ -1,6 +1,6 @@
 2011-03-30T00:00:00
 Standard
-UW_Control
+UW_Artifact_Cpntrol
 2 Venser, the Sojourner
 2 Tumble Magnet
 1 Spine of Ish Sah
@@ -10,7 +10,7 @@ UW_Control
 4 Jace, the Mind Sculptor
 2 Gideon Jura
 1 Deprive
-4 Day of Judgment
+2 Day of Judgment
 2 Contagion Clasp
 4 Condemn
 1 Wurmcoil Engine
@@ -26,8 +26,10 @@ UW_Control
 1 Halimar Depths
 4 Glacial Fortress
 3 Celestial Colonnade
+Sideboard
 2 Revoke Existence
 2 Negate
 3 Luminarch Ascension
 3 Leyline of Sanctity
 3 Flashfreeze
+2 Day of Judgment
