@@ -1,6 +1,6 @@
 2016-08-27T00:00:00
 Standard
-Orzhov_Control
+Orzhov_Walkers
 5 Swamp
 1 Westvale Abbey
 1 Sea Gate Wreckage
@@ -8,7 +8,7 @@ Orzhov_Control
 4 Forsaken Sanctuary
 4 Caves of Koilos
 4 Thought-Knot Seer
-3 Matter Reshaper
+2 Matter Reshaper
 2 Archangel Avacyn
 2 Read the Bones
 1 Ob Nixilis Reignited
@@ -25,9 +25,12 @@ Orzhov_Control
 4 Shambling Vent
 2 Ruinous Path
 1 Thalia's Lancers
-2 Anguished Unmaking
+1 Anguished Unmaking
 3 Plains
 1 Llanowar Wastes
+Sideboard
+1 Matter Reshaper
+1 Anguished Unmaking
 1 Descend upon the Sinful
 2 Call the Bloodline
 1 Linvala, the Preserver

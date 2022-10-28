@@ -10,9 +10,9 @@ Jeskai_Midrange
 2 Plains
 2 Mountain
 1 Island
-2 Treasure Cruise
+1 Treasure Cruise
 4 Wild Slash
-4 Valorous Stance
+3 Valorous Stance
 4 Stoke the Flames
 4 Lightning Strike
 4 Outpost Siege
@@ -20,6 +20,7 @@ Jeskai_Midrange
 4 Goblin Rabblemaster
 4 Mantis Rider
 4 Seeker of the Way
+Sideboard
 1 Glare of Heresy
 2 Sarkhan, the Dragonspeaker
 2 Brimaz, King of Oreskos
@@ -27,3 +28,5 @@ Jeskai_Midrange
 2 Erase
 3 Disdainful Stroke
 1 Ashcloud Phoenix
+1 Treasure Cruise
+1 Valorous Stance

@@ -1,6 +1,6 @@
 2016-06-25T00:00:00
 Legacy
-Grixis_Delver
+Grixis_Delver_
 4 Deathrite Shaman
 4 Delver of Secrets
 3 Young Pyromancer
@@ -8,7 +8,7 @@ Grixis_Delver
 1 Vendilion Clique
 4 Force of Will
 4 Daze
-4 Cabal Therapy
+2 Cabal Therapy
 4 Brainstorm
 4 Ponder
 4 Gitaxian Probe
@@ -22,6 +22,8 @@ Grixis_Delver
 3 Scalding Tarn
 2 Misty Rainforest
 4 Wasteland
+Sideboard
+2 Cabal Therapy
 2 Pyroblast
 2 Winter Orb
 2 Surgical Extraction

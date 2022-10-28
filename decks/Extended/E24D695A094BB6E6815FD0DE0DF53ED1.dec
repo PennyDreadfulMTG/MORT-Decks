@@ -10,7 +10,7 @@ Wargate_Scapeshift
 4 Valakut, the Molten Pinnacle
 1 Verdant Catacombs
 2 Celestial Colonnade
-3 Avenger of Zendikar
+1 Avenger of Zendikar
 4 Prismatic Omen
 4 Cryptic Command
 4 Mana Leak
@@ -19,9 +19,13 @@ Wargate_Scapeshift
 4 Preordain
 3 Rampant Growth
 4 Wargate
-4 Leyline of Sanctity
+3 Leyline of Sanctity
 1 Ponder
-4 Day of Judgment
+1 Day of Judgment
+Sideboard
+2 Avenger of Zendikar
+1 Leyline of Sanctity
+3 Day of Judgment
 2 Sun Titan
 2 Nature's Claim
 2 Sower of Temptation

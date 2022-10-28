@@ -1,6 +1,6 @@
 2008-02-24T00:00:00
 Extended
-Zoo
+Zoo_Domain
 4 Wooded Foothills
 4 Tribal Flames
 4 Bloodstained Mire
@@ -14,7 +14,7 @@ Zoo
 4 Tarmogoyf
 3 Isamaru, Hound of Konda
 3 Gaea's Might
-3 Gaddock Teeg
+2 Gaddock Teeg
 1 Steam Vents
 1 Blood Crypt
 1 Sacred Foundry
@@ -23,6 +23,8 @@ Zoo
 1 Godless Shrine
 1 Stomping Ground
 1 Overgrown Tomb
+Sideboard
+1 Gaddock Teeg
 4 Tormod's Crypt
 3 Ancient Grudge
 2 Armadillo Cloak

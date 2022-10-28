@@ -1,6 +1,6 @@
 2017-02-18T00:00:00
 Modern
-***Grixis Delver
+Grixis_Delver
 2 Watery Grave
 1 Swamp
 1 Steam Vents
@@ -13,7 +13,7 @@ Modern
 2 Bloodstained Mire
 1 Blood Crypt
 4 Terminate
-3 Kolaghan's Command
+2 Kolaghan's Command
 1 Electrolyze
 4 Lightning Bolt
 3 Tasigur, the Golden Fang
@@ -27,7 +27,8 @@ Modern
 2 Spell Snare
 4 Thought Scour
 1 Vendilion Clique
-2 Collective Brutality
+1 Collective Brutality
+Sideboard
 2 Engineered Explosives
 1 Crumble to Dust
 2 Countersquall
@@ -37,3 +38,5 @@ Modern
 1 Painful Truths
 1 Kalitas, Traitor of Ghet
 1 Dispel
+1 Kolaghan's Command
+1 Collective Brutality

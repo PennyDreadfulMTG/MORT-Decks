@@ -9,7 +9,7 @@ Gush_Doomsday
 1 Brainstorm
 1 Ponder
 1 Merchant Scroll
-4 Hurkyl's Recall
+1 Hurkyl's Recall
 1 Tendrils of Agony
 1 Laboratory Maniac
 1 Gitaxian Probe
@@ -17,7 +17,7 @@ Gush_Doomsday
 1 Ancestral Recall
 1 Flusterstorm
 4 Force of Will
-4 Duress
+3 Duress
 2 Mental Misstep
 1 Lotus Petal
 1 Mox Sapphire
@@ -35,6 +35,9 @@ Gush_Doomsday
 4 Scalding Tarn
 3 Misty Rainforest
 4 Unknown Card
+Sideboard
+3 Hurkyl's Recall
+1 Duress
 1 Mountain
 3 Ingot Chewer
 2 Tormod's Crypt

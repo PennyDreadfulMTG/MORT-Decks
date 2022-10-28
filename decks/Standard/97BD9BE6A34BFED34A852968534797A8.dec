@@ -1,10 +1,10 @@
 2017-11-25T00:00:00
 Standard
-Mardu_Vehicle
+Mardu_Vehicles
 4 Concealed Courtyard
 4 Inspiring Vantage
 1 Canyon Slough
-2 Dragonskull Summit
+1 Dragonskull Summit
 4 Spire of Industry
 3 Aether Hub
 3 Mountain
@@ -14,7 +14,7 @@ Mardu_Vehicle
 1 Aethersphere Harvester
 4 Heart of Kiran
 2 Gideon of the Trials
-3 Chandra, Torch of Defiance
+2 Chandra, Torch of Defiance
 2 Glorybringer
 4 Scrapheap Scrounger
 4 Veteran Motorist
@@ -23,7 +23,10 @@ Mardu_Vehicle
 2 Hazoret the Fervent
 4 Unlicensed Disintegration
 2 Pia Nalaar
+Sideboard
 1 Skysovereign, Consul Flagship
+1 Dragonskull Summit
+1 Chandra, Torch of Defiance
 4 Duress
 2 Magma Spray
 2 Chandra's Defeat

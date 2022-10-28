@@ -8,7 +8,7 @@ BGW_Rock
 4 Dark Confidant
 4 Swords to Plowshares
 4 Tarmogoyf
-4 Eternal Witness
+3 Eternal Witness
 3 Bayou
 3 Polluted Delta
 3 Savannah
@@ -18,11 +18,15 @@ BGW_Rock
 2 Scrubland
 2 Thoughtseize
 2 Treetop Village
-2 Volrath's Stronghold
-2 Shriekmaw
+1 Volrath's Stronghold
+1 Shriekmaw
 1 Forest
 1 Swamp
 1 Plains
+Sideboard
+1 Eternal Witness
+1 Volrath's Stronghold
+1 Shriekmaw
 4 Leyline of the Void
 3 Extirpate
 3 Engineered Plague

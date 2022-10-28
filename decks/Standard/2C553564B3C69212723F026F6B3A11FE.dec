@@ -6,12 +6,12 @@ Grixis_Control
 4 Glimmer of Genius
 4 Supreme Will
 3 Disallow
-4 Negate
+1 Negate
 4 Harnessed Lightning
 4 Essence Scatter
 4 Censor
 2 Unsummon
-4 Fatal Push
+2 Fatal Push
 3 Torrential Gearhulk
 3 The Scarab God
 2 Swamp
@@ -19,6 +19,9 @@ Grixis_Control
 2 Mountain
 6 Island
 4 Drowned Catacomb
+Sideboard
+3 Negate
+2 Fatal Push
 1 Sorcerous Spyglass
 3 Glint-Sleeve Siphoner
 4 Duress

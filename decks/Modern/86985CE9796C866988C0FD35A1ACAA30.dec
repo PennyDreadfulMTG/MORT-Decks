@@ -1,6 +1,6 @@
 2013-10-05T00:00:00
 Modern
-***Jeskai Control
+UWR_Control
 4 Celestial Colonnade
 2 Steam Vents
 2 Hallowed Fountain
@@ -11,12 +11,12 @@ Modern
 1 Plains
 3 Island
 1 Mountain
-4 Tectonic Edge
+3 Tectonic Edge
 1 Sacred Foundry
 4 Lightning Bolt
 2 Path to Exile
 3 Spell Snare
-2 Pyroclasm
+1 Pyroclasm
 2 Lightning Helix
 3 Mana Leak
 3 Snapcaster Mage
@@ -26,8 +26,12 @@ Modern
 4 Cryptic Command
 1 Ajani Vengeant
 1 Batterskull
-2 Hallowed Burial
+1 Hallowed Burial
 2 Sphinx's Revelation
+Sideboard
+1 Tectonic Edge
+1 Pyroclasm
+1 Hallowed Burial
 1 Stony Silence
 1 Celestial Purge
 1 Threads of Disloyalty

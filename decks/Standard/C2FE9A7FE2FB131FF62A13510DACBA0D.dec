@@ -1,7 +1,7 @@
 2012-04-14T00:00:00
 Standard
 Trinket_Human
-3 Spellskite
+2 Spellskite
 4 Trinket Mage
 4 Puresteel Paladin
 4 Champion of the Parish
@@ -9,8 +9,8 @@ Trinket_Human
 2 Gut Shot
 4 Ponder
 4 Gather the Townsfolk
-2 Grafdigger's Cage
-2 Sylvok Lifestaff
+1 Grafdigger's Cage
+1 Sylvok Lifestaff
 4 Avacyn's Collar
 4 Mortarpod
 1 Mox Opal
@@ -19,6 +19,10 @@ Trinket_Human
 4 Seachrome Coast
 1 Moorland Haunt
 4 Glacial Fortress
+Sideboard
+1 Spellskite
+1 Grafdigger's Cage
+1 Sylvok Lifestaff
 1 Hex Parasite
 2 Celestial Purge
 2 Revoke Existence
