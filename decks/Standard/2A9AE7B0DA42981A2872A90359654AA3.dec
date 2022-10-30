@@ -1,11 +1,11 @@
 2015-01-11T00:00:00
 Standard
-Boros_Aggro
+Boros_Midrange
 2 Chandra, Pyromaster
 4 Stoke the Flames
 4 Lightning Strike
 4 Hordeling Outburst
-4 Hushwing Gryff
+1 Hushwing Gryff
 4 Seeker of the Way
 4 Chained to the Rocks
 2 Ashcloud Phoenix
@@ -17,8 +17,10 @@ Boros_Aggro
 4 Battlefield Forge
 5 Plains
 10 Mountain
+Sideboard
 3 Erase
 3 Glare of Heresy
+3 Hushwing Gryff
 2 Scouring Sands
 1 Elspeth, Sun's Champion
 1 Banishing Light

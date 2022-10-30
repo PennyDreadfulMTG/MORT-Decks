@@ -5,10 +5,10 @@ UB_Control
 3 Grave Titan
 1 Cancel
 2 Consume the Meek
-4 Disfigure
-3 Doom Blade
+2 Disfigure
+2 Doom Blade
 4 Mana Leak
-3 Duress
+1 Duress
 3 Inquisition of Kozilek
 4 Preordain
 4 Spreading Seas
@@ -22,6 +22,10 @@ UB_Control
 4 Drowned Catacomb
 4 Tectonic Edge
 5 Island
+Sideboard
+2 Disfigure
+1 Doom Blade
+2 Duress
 1 Deprive
 2 Flashfreeze
 3 Memoricide

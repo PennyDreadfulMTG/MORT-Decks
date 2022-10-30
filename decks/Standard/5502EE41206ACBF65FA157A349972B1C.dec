@@ -2,7 +2,7 @@
 Standard
 Abzan_Midrange
 4 Thoughtseize
-4 Languish
+3 Languish
 2 End Hostilities
 3 Hero's Downfall
 2 Bile Blight
@@ -17,12 +17,13 @@ Abzan_Midrange
 1 Plains
 4 Forest
 1 Garruk, Apex Predator
-3 Elspeth, Sun's Champion
+2 Elspeth, Sun's Champion
 2 Tasigur, the Golden Fang
 2 Nissa, Vastwood Seer
-4 Courser of Kruphix
+2 Courser of Kruphix
 4 Siege Rhino
 4 Den Protector
+Sideboard
 1 Read the Bones
 1 Glare of Heresy
 2 Duress
@@ -30,3 +31,6 @@ Abzan_Midrange
 2 Utter End
 2 Ultimate Price
 1 Reclamation Sage
+1 Languish
+1 Elspeth, Sun's Champion
+2 Courser of Kruphix

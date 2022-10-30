@@ -1,11 +1,11 @@
 2015-10-27T00:00:00
 Standard
-Mardu_Aggro
+Mardu_Midrange
 1 Murderous Cut
-3 Wild Slash
+2 Wild Slash
 2 Kolaghan's Command
 2 Read the Bones
-4 Duress
+3 Duress
 3 Sarkhan, the Dragonspeaker
 4 Draconic Roar
 4 Crackling Doom
@@ -25,6 +25,7 @@ Mardu_Aggro
 4 Nomad Outpost
 4 Battlefield Forge
 4 Bloodstained Mire
+Sideboard
 1 Crux of Fate
 1 Outpost Siege
 3 Rending Volley
@@ -32,3 +33,5 @@ Mardu_Aggro
 2 Transgress the Mind
 2 Self-Inflicted Wound
 3 Radiant Flames
+1 Wild Slash
+1 Duress

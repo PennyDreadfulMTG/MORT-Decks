@@ -1,6 +1,6 @@
 2013-01-02T00:00:00
 Block
-Bant_Midrange
+Bant_Control
 4 Azorius Guildgate
 2 Forest
 4 Hallowed Fountain
@@ -12,12 +12,14 @@ Bant_Midrange
 4 Gatecreeper Vine
 4 Azorius Charm
 2 Azorius Keyrune
-3 Cancel
+2 Cancel
 4 Detention Sphere
 4 Jace, Architect of Thought
 2 Selesnya Keyrune
 3 Sphinx's Revelation
 4 Supreme Verdict
+Sideboard
+1 Cancel
 4 Dispel
 2 Keening Apparition
 4 Loxodon Smiter

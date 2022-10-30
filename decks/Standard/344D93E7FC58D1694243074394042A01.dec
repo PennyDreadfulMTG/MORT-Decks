@@ -1,6 +1,6 @@
 2011-12-06T00:00:00
 Standard
-GW_Token
+GW_Tokens
 6 Forest
 2 Gavony Township
 9 Plains
@@ -11,14 +11,17 @@ GW_Token
 1 Geist-Honored Monk
 2 Hero of Bladehold
 3 Mentor of the Meek
-4 Day of Judgment
+3 Day of Judgment
 2 Fresh Meat
 4 Intangible Virtue
 4 Midnight Haunting
 2 Overrun
 3 Parallel Lives
 3 Shrine of Loyal Legions
-4 Timely Reinforcements
+3 Timely Reinforcements
+Sideboard
+1 Day of Judgment
+1 Timely Reinforcements
 2 Celestial Purge
 3 Ghost Quarter
 4 Naturalize

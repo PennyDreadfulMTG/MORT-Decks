@@ -1,10 +1,10 @@
 2099-05-02T00:00:00
 Block
-R/U_Academy
+colossus.dec
 1 Crater Hellion
 2 Phyrexian Colossus
 3 Arc Lightning
-4 Confiscate
+2 Confiscate
 4 Grim Monolith
 1 Mishra's Helix
 2 Ring of Gix
@@ -19,6 +19,8 @@ R/U_Academy
 2 Remote Isle
 1 Smoldering Crater
 4 Tolarian Academy
+Sideboard
+2 Confiscate
 3 Hibernation
 4 Rack and Ruin
 2 Shivan Hellkite

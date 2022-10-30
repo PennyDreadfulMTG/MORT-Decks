@@ -11,10 +11,10 @@ UB_Control
 1 Verdant Catacombs
 3 Grave Titan
 3 Sea Gate Oracle
-3 Consume the Meek
-3 Disfigure
-3 Doom Blade
-4 Duress
+1 Consume the Meek
+2 Disfigure
+2 Doom Blade
+2 Duress
 4 Jace, the Mind Sculptor
 4 Mana Leak
 4 Preordain
@@ -22,6 +22,11 @@ UB_Control
 2 Spell Pierce
 3 Spreading Seas
 1 Stoic Rebuttal
+Sideboard
+2 Consume the Meek
+1 Disfigure
+1 Doom Blade
+2 Duress
 2 Flashfreeze
 1 Jace Beleren
 2 Memoricide

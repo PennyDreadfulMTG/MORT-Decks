@@ -1,6 +1,6 @@
 2017-06-04T00:00:00
 Standard
-Golgari_Constrictor
+Bg_Energy_Constrictor
 6 Forest
 3 Swamp
 4 Blooming Marsh
@@ -8,17 +8,18 @@ Golgari_Constrictor
 4 Hissing Quagmire
 2 Aethersphere Harvester
 2 Dissenter's Deliverance
-4 Fatal Push
+3 Fatal Push
 4 Attune with Aether
 3 Verdurous Gearhulk
 4 Glint-Sleeve Siphoner
 4 Greenbelt Rampager
 2 Longtusk Cub
-4 Tireless Tracker
+2 Tireless Tracker
 4 Winding Constrictor
 3 Rishkar, Peema Renegade
 4 Walking Ballista
 2 Nissa, Voice of Zendikar
+Sideboard
 1 Skysovereign, Consul Flagship
 2 Dispossess
 1 Gonti, Lord of Luxury
@@ -27,3 +28,5 @@ Golgari_Constrictor
 1 Never / Return
 1 Grasp of Darkness
 3 Transgress the Mind
+1 Fatal Push
+2 Tireless Tracker

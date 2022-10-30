@@ -1,16 +1,16 @@
 2013-10-13T00:00:00
 Standard
-Orzhov_Control
+Orzhov_Midrange
 6 Swamp
 7 Plains
 1 Whip of Erebos
-2 Elspeth, Sun's Champion
+1 Elspeth, Sun's Champion
 3 Read the Bones
-4 Doom Blade
+3 Doom Blade
 4 Hero's Downfall
 4 Thoughtseize
-2 Blood Baron of Vizkopa
-4 Sin Collector
+1 Blood Baron of Vizkopa
+2 Sin Collector
 3 Obzedat, Ghost Council
 4 Desecration Demon
 4 Precinct Captain
@@ -19,6 +19,7 @@ Orzhov_Control
 4 Orzhov Guildgate
 4 Temple of Silence
 4 Godless Shrine
+Sideboard
 1 Underworld Connections
 1 Pithing Needle
 1 Pharika's Cure
@@ -26,3 +27,7 @@ Orzhov_Control
 1 Last Breath
 3 Fiendslayer Paladin
 1 Devour Flesh
+1 Elspeth, Sun's Champion
+1 Doom Blade
+1 Blood Baron of Vizkopa
+2 Sin Collector

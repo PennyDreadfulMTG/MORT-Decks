@@ -1,6 +1,6 @@
 2013-07-24T00:00:00
 Standard
-UWr_Midrange
+UWx_Midrange
 1 Moorland Haunt
 2 Island
 4 Hallowed Fountain
@@ -12,7 +12,7 @@ UWr_Midrange
 2 Syncopate
 2 Sphinx's Revelation
 3 Searing Spear
-4 Pillar of Flame
+3 Pillar of Flame
 2 Feeling of Dread
 4 Azorius Charm
 4 Snapcaster Mage
@@ -21,6 +21,7 @@ UWr_Midrange
 4 Sulfur Falls
 4 Steam Vents
 2 Sacred Foundry
+Sideboard
 2 Supreme Verdict
 3 Purify the Grave
 1 Negate
@@ -29,3 +30,4 @@ UWr_Midrange
 1 Counterflux
 1 Clone
 1 Assemble the Legion
+1 Pillar of Flame

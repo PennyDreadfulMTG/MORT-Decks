@@ -4,7 +4,7 @@ UW_Control
 2 Syncopate
 3 Settle the Wreckage
 2 Pull from Tomorrow
-3 Negate
+1 Negate
 3 Essence Scatter
 4 Disallow
 1 Commit / Memory
@@ -21,9 +21,12 @@ UW_Control
 2 Search for Azcanta
 3 Seal Away
 3 Cast Out
-3 Fumigate
+2 Fumigate
+Sideboard
+2 Negate
 2 Sorcerous Spyglass
 3 Knight of Grace
 2 Invoke the Divine
 4 History of Benalia
 1 Aether Meltdown
+1 Fumigate

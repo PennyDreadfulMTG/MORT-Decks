@@ -1,6 +1,6 @@
 2017-01-29T00:00:00
 Legacy
-BUG_Aggro_/_Midrange
+Noble_Bug
 1 Tarmogoyf
 4 True-Name Nemesis
 4 Noble Hierarch
@@ -18,7 +18,7 @@ BUG_Aggro_/_Midrange
 1 Sylvan Library
 1 Garruk Relentless
 2 Jace, the Mind Sculptor
-3 Thoughtseize
+2 Thoughtseize
 1 Murderous Cut
 2 Ponder
 4 Force of Will
@@ -26,6 +26,7 @@ BUG_Aggro_/_Midrange
 4 Brainstorm
 3 Abrupt Decay
 2 Leovold, Emissary of Trest
+Sideboard
 1 Vendilion Clique
 2 Submerge
 2 Pithing Needle
@@ -35,3 +36,4 @@ BUG_Aggro_/_Midrange
 1 Painful Truths
 1 Nihil Spellbomb
 2 Surgical Extraction
+1 Thoughtseize

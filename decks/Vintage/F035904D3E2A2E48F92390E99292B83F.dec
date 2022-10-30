@@ -6,13 +6,13 @@ Gush_Storm
 1 Brainstorm
 1 Mystical Tutor
 1 Vampiric Tutor
-4 Hurkyl's Recall
+2 Hurkyl's Recall
 3 Mana Drain
 4 Force of Will
 4 Gush
 4 Mental Misstep
 1 Demonic Tutor
-2 Duress
+1 Duress
 1 Merchant Scroll
 1 Regrowth
 1 Tendrils of Agony
@@ -37,6 +37,9 @@ Gush_Storm
 3 Underground Sea
 4 Misty Rainforest
 2 Jace, the Mind Sculptor
+Sideboard
+2 Hurkyl's Recall
+1 Duress
 1 Yixlid Jailer
 2 Dismember
 1 Flusterstorm

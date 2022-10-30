@@ -1,6 +1,6 @@
 2010-11-12T00:00:00
 Standard
-UGR_Shaman
+UG_Shaman
 4 Birds of Paradise
 2 Cunning Sparkmage
 4 Fauna Shaman
@@ -13,7 +13,7 @@ UGR_Shaman
 4 Vengevine
 1 Wurmcoil Engine
 1 Basilisk Collar
-3 Brittle Effigy
+1 Brittle Effigy
 1 Chimeric Mass
 1 Everflowing Chalice
 3 Jace, the Mind Sculptor
@@ -26,6 +26,8 @@ UGR_Shaman
 1 Rootbound Crag
 4 Scalding Tarn
 4 Forest
+Sideboard
+2 Brittle Effigy
 3 Arc Trail
 2 Manic Vandal
 2 Obstinate Baloth

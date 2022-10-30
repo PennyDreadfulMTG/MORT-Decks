@@ -1,6 +1,6 @@
 2015-04-12T00:00:00
 Standard
-Jeskai_Token
+Jeskai_Tokens
 4 Goblin Rabblemaster
 3 Dragon Fodder
 4 Treasure Cruise
@@ -9,8 +9,8 @@ Jeskai_Token
 3 Wild Slash
 3 Anticipate
 4 Stoke the Flames
-3 Valorous Stance
-4 Disdainful Stroke
+2 Valorous Stance
+3 Disdainful Stroke
 4 Jeskai Ascendancy
 3 Temple of Triumph
 3 Temple of Epiphany
@@ -21,6 +21,9 @@ Jeskai_Token
 2 Island
 2 Plains
 1 Mountain
+Sideboard
+1 Valorous Stance
+1 Disdainful Stroke
 3 Anger of the Gods
 2 Narset Transcendent
 1 Glare of Heresy

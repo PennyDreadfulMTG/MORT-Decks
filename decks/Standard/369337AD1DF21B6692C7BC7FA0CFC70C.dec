@@ -1,15 +1,15 @@
 2016-04-24T00:00:00
 Standard
-Orzhov_Control
+Orzhov_Aggro
 1 Secure the Wastes
-2 Anguished Unmaking
-2 Tragic Arrogance
+1 Anguished Unmaking
+1 Tragic Arrogance
 2 Ultimate Price
 2 Gideon, Ally of Zendikar
 2 Sorin, Grim Nemesis
 4 Declaration in Stone
 2 Reality Smasher
-4 Thought-Knot Seer
+2 Thought-Knot Seer
 2 Wasteland Strangler
 2 Ayli, Eternal Pilgrim
 3 Hedron Crawler
@@ -25,6 +25,7 @@ Orzhov_Control
 4 Shambling Vent
 4 Caves of Koilos
 5 Plains
+Sideboard
 3 Duress
 3 Hallowed Moonlight
 1 Lantern Scout
@@ -32,3 +33,6 @@ Orzhov_Control
 1 Linvala, the Preserver
 1 Virulent Plague
 1 Languish
+1 Anguished Unmaking
+1 Tragic Arrogance
+2 Thought-Knot Seer

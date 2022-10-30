@@ -1,6 +1,6 @@
 2013-12-07T00:00:00
 Vintage
-BUG_Fish
+Bug_Fish
 1 Jace, the Mind Sculptor
 1 Vampiric Tutor
 1 Demonic Tutor
@@ -13,12 +13,12 @@ BUG_Fish
 1 Mox Jet
 2 Thoughtseize
 2 Spell Pierce
-3 Mental Misstep
+2 Mental Misstep
 3 Steel Sabotage
 4 Force of Will
 4 Abrupt Decay
 2 Tarmogoyf
-3 Trygon Predator
+2 Trygon Predator
 4 Snapcaster Mage
 4 Dark Confidant
 4 Deathrite Shaman
@@ -29,6 +29,7 @@ BUG_Fish
 3 Tropical Island
 3 Underground Sea
 4 Polluted Delta
+Sideboard
 2 Nature's Claim
 1 Vendilion Clique
 1 Nihil Spellbomb
@@ -36,3 +37,5 @@ BUG_Fish
 1 Flusterstorm
 3 Dismember
 1 Karakas
+1 Mental Misstep
+1 Trygon Predator

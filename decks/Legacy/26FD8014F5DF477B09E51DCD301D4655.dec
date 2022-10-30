@@ -1,6 +1,6 @@
 2008-06-01T00:00:00
 Legacy
-UGb_Threshold
+UGb_Thresh
 4 Spell Snare
 4 Stifle
 4 Ponder
@@ -20,6 +20,7 @@ UGb_Threshold
 2 Island
 1 Swamp
 1 Overgrown Tomb
+Sideboard
 3 Tormod's Crypt
 3 Ghastly Demise
 3 Engineered Plague

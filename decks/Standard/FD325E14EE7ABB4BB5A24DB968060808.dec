@@ -1,9 +1,9 @@
 2014-01-22T00:00:00
 Standard
-Esper_Control
+UB_Control
 1 Hero's Downfall
 1 Far / Away
-2 Elspeth, Sun's Champion
+1 Elspeth, Sun's Champion
 1 Jace, Memory Adept
 2 Ashiok, Nightmare Weaver
 3 Jace, Architect of Thought
@@ -22,6 +22,7 @@ Esper_Control
 4 Hallowed Fountain
 4 Watery Grave
 4 Temple of Silence
+Sideboard
 1 Obzedat, Ghost Council
 2 Lifebane Zombie
 2 Glare of Heresy
@@ -30,3 +31,4 @@ Esper_Control
 2 Doom Blade
 2 Domestication
 2 Supreme Verdict
+1 Elspeth, Sun's Champion

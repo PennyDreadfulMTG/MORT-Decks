@@ -5,11 +5,11 @@ Boros_Aggro
 4 Goblin Rabblemaster
 2 Soulfire Grand Master
 4 Seeker of the Way
-3 Ashcloud Phoenix
+1 Ashcloud Phoenix
 3 Brimaz, King of Oreskos
 4 Stoke the Flames
 4 Lightning Strike
-4 Valorous Stance
+2 Valorous Stance
 4 Outpost Siege
 4 Chained to the Rocks
 10 Mountain
@@ -17,6 +17,9 @@ Boros_Aggro
 1 Evolving Wilds
 4 Temple of Triumph
 4 Battlefield Forge
+Sideboard
+2 Ashcloud Phoenix
+2 Valorous Stance
 2 Mastery of the Unseen
 2 Erase
 1 Elspeth, Sun's Champion

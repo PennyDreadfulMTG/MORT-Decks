@@ -1,6 +1,6 @@
 2011-11-05T00:00:00
 Standard
-Bant_Pod
+Bant_Birthing_Pod
 2 Solemn Simulacrum
 1 Wurmcoil Engine
 2 Acidic Slime
@@ -12,11 +12,11 @@ Bant_Pod
 1 Frost Titan
 2 Phantasmal Image
 1 Skaab Ruinator
-2 Stonehorn Dignitary
+1 Stonehorn Dignitary
 1 Sun Titan
 3 Viridian Emissary
 1 Elesh Norn, Grand Cenobite
-2 Thrun, the Last Troll
+1 Thrun, the Last Troll
 3 Ponder
 4 Birthing Pod
 2 Oblivion Ring
@@ -29,6 +29,9 @@ Bant_Pod
 4 Seachrome Coast
 2 Venser, the Sojourner
 1 Unknown Card
+Sideboard
+1 Stonehorn Dignitary
+1 Thrun, the Last Troll
 1 Trinket Mage
 2 Celestial Purge
 2 Flashfreeze

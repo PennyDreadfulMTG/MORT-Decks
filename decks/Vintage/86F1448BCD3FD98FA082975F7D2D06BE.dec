@@ -6,9 +6,9 @@ Jace_Control
 1 Ancestral Recall
 1 Brainstorm
 1 Gifts Ungiven
-2 Hurkyl's Recall
+1 Hurkyl's Recall
 1 Mystical Tutor
-4 Nature's Claim
+1 Nature's Claim
 1 Vampiric Tutor
 3 Mana Drain
 4 Force of Will
@@ -40,6 +40,9 @@ Jace_Control
 2 Tropical Island
 3 Underground Sea
 4 Polluted Delta
+Sideboard
+1 Hurkyl's Recall
+3 Nature's Claim
 4 Yixlid Jailer
 3 Mystic Remora
 1 Mindbreak Trap

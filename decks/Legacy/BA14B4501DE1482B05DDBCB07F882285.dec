@@ -1,6 +1,6 @@
 2017-03-26T00:00:00
 Legacy
-UR_Delver
+Ur_Delver
 3 Volcanic Island
 2 Mountain
 2 Island
@@ -11,9 +11,9 @@ UR_Delver
 1 Thunderous Wrath
 1 Fireblast
 4 Daze
-4 Force of Will
+3 Force of Will
 4 Gitaxian Probe
-3 Price of Progress
+2 Price of Progress
 4 Chain Lightning
 4 Lightning Bolt
 4 Ponder
@@ -22,6 +22,7 @@ UR_Delver
 2 Bedlam Reveler
 4 Monastery Swiftspear
 4 Delver of Secrets
+Sideboard
 2 Smash to Smithereens
 2 Surgical Extraction
 2 Pyroblast
@@ -31,3 +32,5 @@ UR_Delver
 2 Sulfuric Vortex
 1 Flusterstorm
 1 Spell Pierce
+1 Force of Will
+1 Price of Progress

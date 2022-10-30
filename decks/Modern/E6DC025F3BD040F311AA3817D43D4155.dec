@@ -1,6 +1,6 @@
 2017-05-21T00:00:00
 Modern
-***Grixis Shadow
+Grixis_Shadow
 4 Death's Shadow
 2 Lightning Bolt
 3 Fatal Push
@@ -17,12 +17,14 @@ Modern
 4 Polluted Delta
 4 Bloodstained Mire
 4 Street Wraith
-4 Stubborn Denial
-3 Terminate
-3 Kolaghan's Command
+2 Stubborn Denial
+2 Terminate
+2 Kolaghan's Command
 2 Gurmag Angler
 2 Tasigur, the Golden Fang
 4 Snapcaster Mage
+Sideboard
+2 Stubborn Denial
 1 Engineered Explosives
 1 Izzet Staticaster
 1 Kozilek's Return
@@ -31,3 +33,5 @@ Modern
 2 Surgical Extraction
 2 Nihil Spellbomb
 1 Ceremonious Rejection
+1 Terminate
+1 Kolaghan's Command
