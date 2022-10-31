@@ -1,17 +1,17 @@
 2016-10-29T00:00:00
 Standard
-Golgari_Aggro
+Golgari_Delirium
 1 To the Slaughter
-2 Dead Weight
+1 Dead Weight
 2 Murder
 2 Vessel of Nascency
-4 Transgress the Mind
+2 Transgress the Mind
 3 Liliana, the Last Hope
 4 Grapple with the Past
 4 Traverse the Ulvenwald
 4 Grasp of Darkness
 1 Pilgrim's Eye
-2 Emrakul, the Promised End
+1 Emrakul, the Promised End
 1 Noxious Gearhulk
 1 Kalitas, Traitor of Ghet
 3 Tireless Tracker
@@ -22,6 +22,7 @@ Golgari_Aggro
 4 Blooming Marsh
 5 Forest
 6 Swamp
+Sideboard
 1 Ob Nixilis Reignited
 1 Whispers of Emrakul
 2 Nissa, Vital Force
@@ -30,3 +31,6 @@ Golgari_Aggro
 1 Plummet
 1 Gnarlwood Dryad
 2 Pick the Brain
+1 Dead Weight
+2 Transgress the Mind
+1 Emrakul, the Promised End

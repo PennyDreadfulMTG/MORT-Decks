@@ -2,7 +2,7 @@
 Standard
 R/g_Monsters
 7 Mountain
-8 Forest
+7 Forest
 2 Hashep Oasis
 4 Sheltered Thicket
 4 Rootbound Crag
@@ -14,10 +14,11 @@ R/g_Monsters
 1 Rhonas the Indomitable
 4 Rekindling Phoenix
 3 Glorybringer
-3 Struggle / Survive
+2 Struggle / Survive
 4 Jadelight Ranger
 2 Servant of the Conduit
 4 Voltaic Brawler
+Sideboard
 1 Kari Zev's Expertise
 1 Deathgorge Scavenger
 3 Chandra, Torch of Defiance
@@ -26,3 +27,5 @@ R/g_Monsters
 1 Prowling Serpopard
 1 Lifecrafter's Bestiary
 2 Crushing Canopy
+1 Forest
+1 Struggle / Survive

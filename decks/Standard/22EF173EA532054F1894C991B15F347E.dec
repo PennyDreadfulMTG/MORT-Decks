@@ -1,6 +1,6 @@
 2018-01-07T00:00:00
 Standard
-Mardu_Vehicle
+Mardu_Vehicles
 3 Hazoret the Fervent
 4 Scrapheap Scrounger
 4 Heart of Kiran
@@ -13,7 +13,7 @@ Mardu_Vehicle
 2 Walking Ballista
 2 Bomat Courier
 1 Cultivator's Caravan
-2 Aethersphere Harvester
+1 Aethersphere Harvester
 4 Concealed Courtyard
 4 Inspiring Vantage
 4 Spire of Industry
@@ -22,6 +22,8 @@ Mardu_Vehicle
 2 Canyon Slough
 2 Dragonskull Summit
 1 Ramunap Ruins
+Sideboard
+1 Aethersphere Harvester
 3 Duress
 2 Abrade
 2 Glorybringer

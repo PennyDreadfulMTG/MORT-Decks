@@ -1,6 +1,6 @@
 2013-08-17T00:00:00
 Standard
-UW_Control
+UWControl
 1 Essence Scatter
 1 Jace, Architect of Thought
 2 Dissipate
@@ -10,7 +10,7 @@ UW_Control
 4 Think Twice
 4 Supreme Verdict
 4 Azorius Charm
-2 Aetherling
+1 Aetherling
 1 Snapcaster Mage
 4 Augur of Bolas
 4 Restoration Angel
@@ -21,6 +21,7 @@ UW_Control
 4 Hallowed Fountain
 7 Plains
 7 Island
+Sideboard
 1 Cavern of Souls
 2 Blind Obedience
 2 Terminus
@@ -28,3 +29,4 @@ UW_Control
 3 Negate
 1 Dispel
 2 Celestial Flare
+1 Aetherling

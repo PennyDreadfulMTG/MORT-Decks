@@ -1,6 +1,6 @@
 2013-02-09T00:00:00
 Modern
-***Jeskai Control
+UWR_Control
 1 Mystic Gate
 1 Plains
 1 Mountain
@@ -10,7 +10,7 @@ Modern
 3 Mana Leak
 3 Spell Snare
 4 Cryptic Command
-3 Supreme Verdict
+2 Supreme Verdict
 4 Lightning Bolt
 2 Shadow of Doubt
 3 Sphinx's Revelation
@@ -24,6 +24,8 @@ Modern
 4 Celestial Colonnade
 3 Tectonic Edge
 4 Arid Mesa
+Sideboard
+1 Supreme Verdict
 1 Timely Reinforcements
 1 Gideon Jura
 1 Elspeth, Knight-Errant

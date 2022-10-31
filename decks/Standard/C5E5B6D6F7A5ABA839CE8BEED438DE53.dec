@@ -7,11 +7,11 @@ Mardu_Aggro
 2 Soulfire Grand Master
 4 Stormbreath Dragon
 4 Thunderbreak Regent
-4 Thoughtseize
+3 Thoughtseize
 4 Crackling Doom
 4 Draconic Roar
 2 Foul-Tongue Invocation
-2 Kolaghan's Command
+1 Kolaghan's Command
 1 Murderous Cut
 2 Battlefield Forge
 4 Bloodstained Mire
@@ -23,6 +23,9 @@ Mardu_Aggro
 1 Temple of Malice
 1 Temple of Silence
 3 Temple of Triumph
+Sideboard
+1 Thoughtseize
+1 Kolaghan's Command
 4 Anger of the Gods
 2 Crux of Fate
 2 Elspeth, Sun's Champion

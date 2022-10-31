@@ -1,7 +1,7 @@
 2013-06-07T00:00:00
 Standard
-UWr_Midrange
-4 Terminus
+UW_Control
+1 Terminus
 2 Think Twice
 3 Turn / Burn
 2 Warleader's Helix
@@ -12,7 +12,7 @@ UWr_Midrange
 2 Searing Spear
 2 Mizzium Mortars
 2 Jace, Architect of Thought
-3 Dissipate
+2 Dissipate
 2 Snapcaster Mage
 4 Boros Reckoner
 2 Aetherling
@@ -24,8 +24,11 @@ UWr_Midrange
 4 Hallowed Fountain
 4 Glacial Fortress
 4 Clifftop Retreat
+Sideboard
+3 Terminus
 3 Clone
 1 Detention Sphere
 2 Negate
 3 Pillar of Flame
 2 Pithing Needle
+1 Dissipate

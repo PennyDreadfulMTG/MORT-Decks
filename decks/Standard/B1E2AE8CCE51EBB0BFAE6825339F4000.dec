@@ -1,14 +1,14 @@
 2015-02-01T00:00:00
 Standard
-Abzan_Midrange
+Abzan_Control
 3 Swamp
 2 Plains
 2 Forest
 1 Sorin, Solemn Visitor
-3 Thoughtseize
-4 Abzan Charm
-2 Hero's Downfall
-4 Abzan Advantage
+1 Thoughtseize
+3 Abzan Charm
+1 Hero's Downfall
+2 Abzan Advantage
 3 Bile Blight
 3 Valorous Stance
 3 Anafenza, the Foremost
@@ -25,6 +25,11 @@ Abzan_Midrange
 4 Sandsteppe Citadel
 2 Llanowar Wastes
 1 Urborg, Tomb of Yawgmoth
+Sideboard
+2 Thoughtseize
+1 Abzan Charm
+1 Hero's Downfall
+2 Abzan Advantage
 1 Utter End
 1 Ajani, Mentor of Heroes
 2 Nissa, Worldwaker

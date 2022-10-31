@@ -3,14 +3,14 @@ Standard
 Sultai_Control
 1 Treasure Cruise
 1 Garruk, Apex Predator
-3 Thoughtseize
+2 Thoughtseize
 2 Rakshasa's Secret
 2 Kiora, the Crashing Wave
 2 Crux of Fate
-3 Disdainful Stroke
+2 Disdainful Stroke
 2 Murderous Cut
 2 Ashiok, Nightmare Weaver
-3 Sultai Charm
+2 Sultai Charm
 2 Ugin, the Spirit Dragon
 3 Hero's Downfall
 4 Dig Through Time
@@ -26,6 +26,7 @@ Sultai_Control
 4 Polluted Delta
 4 Temple of Malady
 4 Opulent Palace
+Sideboard
 2 Feed the Clan
 1 Polukranos, World Eater
 2 Rakshasa Deathdealer
@@ -34,3 +35,6 @@ Sultai_Control
 2 Negate
 1 Silumgar, the Drifting Death
 2 Tasigur, the Golden Fang
+1 Thoughtseize
+1 Disdainful Stroke
+1 Sultai Charm

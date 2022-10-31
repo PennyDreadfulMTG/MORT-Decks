@@ -1,6 +1,6 @@
 2016-02-21T00:00:00
 Standard
-Collected_Bant
+Bant_Aggro
 3 Nissa, Voice of Zendikar
 3 Gideon, Ally of Zendikar
 4 Eldrazi Skyspawner
@@ -11,7 +11,7 @@ Collected_Bant
 4 Rattleclaw Mystic
 3 Den Protector
 1 Dromoka's Command
-3 Dispel
+2 Dispel
 2 Silkwrap
 2 Forest
 2 Island
@@ -23,6 +23,7 @@ Collected_Bant
 2 Prairie Stream
 4 Lumbering Falls
 4 Windswept Heath
+Sideboard
 2 Valorous Stance
 3 Arashin Cleric
 2 Deathmist Raptor
@@ -30,3 +31,4 @@ Collected_Bant
 1 Hallowed Moonlight
 1 Surge of Righteousness
 2 Planar Outburst
+1 Dispel

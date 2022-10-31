@@ -1,11 +1,11 @@
 2015-01-10T00:00:00
 Standard
 Boros_Aggro
-3 Chandra, Pyromaster
+2 Chandra, Pyromaster
 2 Ashcloud Phoenix
 3 Brimaz, King of Oreskos
 4 Goblin Rabblemaster
-4 Hushwing Gryff
+1 Hushwing Gryff
 4 Seeker of the Way
 4 Stormbreath Dragon
 4 Hordeling Outburst
@@ -17,6 +17,9 @@ Boros_Aggro
 10 Mountain
 5 Plains
 4 Temple of Triumph
+Sideboard
+1 Chandra, Pyromaster
+3 Hushwing Gryff
 1 Banishing Light
 3 Erase
 3 Glare of Heresy

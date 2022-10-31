@@ -5,10 +5,10 @@ R/G_Scapeshift
 1 Harrow
 2 Lightning Bolt
 4 Manamorphose
-3 Volcanic Fallout
+2 Volcanic Fallout
 3 Cultivate
 4 Explore
-2 Primal Command
+1 Primal Command
 4 Rampant Growth
 4 Scapeshift
 4 Khalni Heart Expedition
@@ -18,6 +18,9 @@ R/G_Scapeshift
 11 Mountain
 2 Terramorphic Expanse
 4 Valakut, the Molten Pinnacle
+Sideboard
+1 Volcanic Fallout
+1 Primal Command
 2 Kitchen Finks
 3 Obstinate Baloth
 2 Vexing Shusher

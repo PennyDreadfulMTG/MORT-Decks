@@ -2,19 +2,19 @@
 Standard
 Bant_Control
 1 Syncopate
-4 Supreme Verdict
+3 Supreme Verdict
 3 Sphinx's Revelation
 1 Selesnya Charm
 4 Jace, Architect of Thought
 1 Garruk, Primal Hunter
 4 Farseek
-4 Detention Sphere
+2 Detention Sphere
 2 Azorius Charm
 4 Thragtusk
 2 Snapcaster Mage
 1 Sigarda, Host of Herons
 3 Restoration Angel
-4 Centaur Healer
+2 Centaur Healer
 2 Angel of Serenity
 4 Temple Garden
 4 Sunpetal Grove
@@ -27,9 +27,13 @@ Bant_Control
 3 Glacial Fortress
 1 Forest
 1 Cavern of Souls
+Sideboard
 1 Elixir of Immortality
 1 Dissipate
 2 Dispel
+1 Supreme Verdict
+2 Detention Sphere
+2 Centaur Healer
 2 Ray of Revelation
 2 Purify the Grave
 2 Negate

@@ -7,7 +7,7 @@ UGW_Control
 4 Plains
 4 Razorverge Thicket
 4 Seachrome Coast
-4 Consecrated Sphinx
+3 Consecrated Sphinx
 2 Sunblast Angel
 4 Viridian Emissary
 4 Beast Within
@@ -16,8 +16,11 @@ UGW_Control
 2 Karn Liberated
 4 Mycosynth Wellspring
 2 Slice in Twain
-4 Steel Sabotage
+2 Steel Sabotage
 4 Stoic Rebuttal
+Sideboard
+1 Consecrated Sphinx
+2 Steel Sabotage
 2 Blue Sun's Zenith
 4 Marrow Shards
 2 Perilous Myr

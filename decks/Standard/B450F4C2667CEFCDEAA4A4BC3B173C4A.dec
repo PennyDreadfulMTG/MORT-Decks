@@ -9,7 +9,7 @@ RUG_Control
 2 Mountain
 4 Raging Ravine
 4 Scalding Tarn
-2 Avenger of Zendikar
+1 Avenger of Zendikar
 1 Frost Titan
 2 Inferno Titan
 4 Lotus Cobra
@@ -19,7 +19,10 @@ RUG_Control
 4 Lightning Bolt
 4 Mana Leak
 4 Preordain
-3 Tumble Magnet
+2 Tumble Magnet
+Sideboard
+1 Avenger of Zendikar
+1 Tumble Magnet
 3 Acidic Slime
 1 Burst Lightning
 2 Flashfreeze

@@ -4,9 +4,9 @@ Golgari_Aggro
 1 Whip of Erebos
 1 Murderous Cut
 1 Crux of Fate
-4 Thoughtseize
+2 Thoughtseize
 4 Hero's Downfall
-2 Merciless Executioner
+1 Merciless Executioner
 1 Sidisi, Undead Vizier
 1 Tasigur, the Golden Fang
 3 Whisperwood Elemental
@@ -24,6 +24,7 @@ Golgari_Aggro
 4 Jungle Hollow
 4 Temple of Malady
 6 Forest
+Sideboard
 1 Virulent Plague
 1 Pharika, God of Affliction
 2 Ultimate Price
@@ -34,3 +35,5 @@ Golgari_Aggro
 1 Minister of Pain
 1 Hornet Queen
 1 Dictate of Erebos
+2 Thoughtseize
+1 Merciless Executioner

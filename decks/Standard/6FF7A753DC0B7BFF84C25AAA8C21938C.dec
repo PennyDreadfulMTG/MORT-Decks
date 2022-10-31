@@ -1,12 +1,12 @@
 2015-03-18T00:00:00
 Standard
-Abzan_Midrange
-2 End Hostilities
+Abzan_Control
+1 End Hostilities
 2 Tasigur, the Golden Fang
 4 Siege Rhino
 4 Courser of Kruphix
 1 Ugin, the Spirit Dragon
-2 Sorin, Solemn Visitor
+1 Sorin, Solemn Visitor
 1 Liliana Vess
 2 Elspeth, Sun's Champion
 2 Plains
@@ -25,6 +25,9 @@ Abzan_Midrange
 3 Abzan Charm
 4 Thoughtseize
 2 Read the Bones
+Sideboard
+1 End Hostilities
+1 Sorin, Solemn Visitor
 4 Fleecemane Lion
 1 Garruk, Apex Predator
 1 Glare of Heresy
