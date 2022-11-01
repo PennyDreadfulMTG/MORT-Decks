@@ -1,10 +1,10 @@
 2013-08-03T00:00:00
 Standard
-UWr_Midrange
+UWx_Midrange
 1 Bonfire of the Damned
 3 Warleader's Helix
 2 Turn / Burn
-4 Searing Spear
+3 Searing Spear
 2 Essence Scatter
 4 Clifftop Retreat
 1 Cavern of Souls
@@ -13,13 +13,14 @@ UWr_Midrange
 4 Snapcaster Mage
 4 Restoration Angel
 4 Boros Reckoner
-4 Pillar of Flame
+3 Pillar of Flame
 2 Dissipate
 4 Sulfur Falls
 4 Steam Vents
 4 Sacred Foundry
 4 Hallowed Fountain
 4 Glacial Fortress
+Sideboard
 2 Negate
 2 Dispel
 2 Celestial Flare
@@ -27,4 +28,6 @@ UWr_Midrange
 2 Izzet Staticaster
 1 Clone
 1 Aetherling
+1 Searing Spear
+1 Pillar of Flame
 2 Blasphemous Act

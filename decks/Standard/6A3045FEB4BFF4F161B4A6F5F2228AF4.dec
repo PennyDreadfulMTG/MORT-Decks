@@ -1,6 +1,6 @@
 2017-03-04T00:00:00
 Standard
-Mardu_Balista
+Mardu_Vehicles
 2 Shambling Vent
 2 Mountain
 4 Aether Hub
@@ -9,7 +9,7 @@ Mardu_Balista
 2 Plains
 4 Spire of Industry
 4 Inspiring Vantage
-5 Archangel Avacyn
+4 Archangel Avacyn
 4 Walking Ballista
 4 Toolcraft Exemplar
 4 Thraben Inspector
@@ -19,6 +19,8 @@ Mardu_Balista
 4 Unlicensed Disintegration
 4 Fatal Push
 4 Gideon, Ally of Zendikar
+Sideboard
+1 Archangel Avacyn
 1 Authority of the Consuls
 2 Chandra, Torch of Defiance
 3 Oath of Chandra

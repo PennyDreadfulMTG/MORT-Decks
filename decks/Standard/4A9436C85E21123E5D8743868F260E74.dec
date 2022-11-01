@@ -1,6 +1,6 @@
 2018-06-01T00:00:00
 Standard
-Dimir_Midrange
+Sultai_Midrange
 2 Liliana, Death's Majesty
 4 Glint-Sleeve Siphoner
 4 Gifted Aetherborn
@@ -9,7 +9,7 @@ Dimir_Midrange
 2 Ravenous Chupacabra
 2 The Scarab God
 2 Muldrotha, the Gravetide
-3 Walking Ballista
+2 Walking Ballista
 1 Doomfall
 4 Fatal Push
 1 Cast Down
@@ -24,6 +24,8 @@ Dimir_Midrange
 1 Island
 1 Forest
 1 Vraska, Relic Seeker
+Sideboard
+1 Walking Ballista
 3 Knight of Malice
 3 Negate
 2 Duress

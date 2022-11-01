@@ -1,6 +1,6 @@
 2016-09-10T00:00:00
 Legacy
-Grixis_Delver
+Grixis_Pyromancer
 1 Vendilion Clique
 2 Gurmag Angler
 4 Deathrite Shaman
@@ -8,7 +8,7 @@ Grixis_Delver
 4 Young Pyromancer
 1 Kolaghan's Command
 1 Spell Pierce
-4 Force of Will
+2 Force of Will
 4 Brainstorm
 4 Daze
 4 Lightning Bolt
@@ -24,6 +24,8 @@ Grixis_Delver
 2 Volcanic Island
 4 Polluted Delta
 4 Wasteland
+Sideboard
+2 Force of Will
 1 Divert
 1 Flusterstorm
 1 Invasive Surgery

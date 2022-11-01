@@ -12,9 +12,9 @@ UB_Control
 3 Grave Titan
 2 Sea Gate Oracle
 2 Consume the Meek
-3 Doom Blade
-3 Duress
-3 Inquisition of Kozilek
+2 Doom Blade
+2 Duress
+2 Inquisition of Kozilek
 2 Jace Beleren
 4 Jace, the Mind Sculptor
 4 Mana Leak
@@ -22,6 +22,10 @@ UB_Control
 2 Ratchet Bomb
 4 Spreading Seas
 1 Stoic Rebuttal
+Sideboard
+1 Doom Blade
+1 Duress
+1 Inquisition of Kozilek
 1 Deprive
 3 Disfigure
 1 Flashfreeze

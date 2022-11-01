@@ -5,13 +5,13 @@ GW_Control
 3 Primeval Titan
 3 Solemn Simulacrum
 1 Sun Titan
-3 Thrun, the Last Troll
+2 Thrun, the Last Troll
 4 Viridian Emissary
 3 Beast Within
 2 White Sun's Zenith
 3 Day of Judgment
-3 Timely Reinforcements
-3 Oblivion Ring
+2 Timely Reinforcements
+2 Oblivion Ring
 6 Forest
 2 Gavony Township
 1 Ghost Quarter
@@ -22,6 +22,10 @@ GW_Control
 3 Garruk, Primal Hunter
 3 Gideon Jura
 1 Karn Liberated
+Sideboard
+1 Thrun, the Last Troll
+1 Timely Reinforcements
+1 Oblivion Ring
 3 Grand Abolisher
 3 Naturalize
 3 Surgical Extraction

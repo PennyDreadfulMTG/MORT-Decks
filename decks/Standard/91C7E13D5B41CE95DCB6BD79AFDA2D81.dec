@@ -1,6 +1,6 @@
 2017-03-05T00:00:00
 Standard
-Mardu_Balista
+Mardu_Vehicles
 1 Shambling Vent
 2 Mountain
 4 Aether Hub
@@ -10,7 +10,7 @@ Mardu_Balista
 2 Plains
 4 Spire of Industry
 4 Inspiring Vantage
-2 Archangel Avacyn
+1 Archangel Avacyn
 1 Depala, Pilot Exemplar
 4 Toolcraft Exemplar
 4 Thraben Inspector
@@ -21,9 +21,13 @@ Mardu_Balista
 3 Heart of Kiran
 4 Unlicensed Disintegration
 4 Fatal Push
-4 Gideon, Ally of Zendikar
+3 Gideon, Ally of Zendikar
 2 Aethersphere Harvester
-2 Skysovereign, Consul Flagship
+1 Skysovereign, Consul Flagship
+Sideboard
+1 Archangel Avacyn
+1 Gideon, Ally of Zendikar
+1 Skysovereign, Consul Flagship
 3 Walking Ballista
 1 Blessed Alliance
 1 Shock

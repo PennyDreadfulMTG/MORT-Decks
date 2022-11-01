@@ -6,13 +6,13 @@ Atarka_Red
 4 Monastery Swiftspear
 4 Zurgo Bellstriker
 3 Become Immense
-4 Wild Slash
+3 Wild Slash
 4 Titan's Strength
 4 Atarka's Command
 3 Temur Battle Rage
 2 Fiery Impulse
 4 Dragon Fodder
-2 Touch of the Void
+1 Touch of the Void
 1 Hordeling Outburst
 1 Forest
 9 Mountain
@@ -20,6 +20,9 @@ Atarka_Red
 4 Bloodstained Mire
 2 Windswept Heath
 2 Cinder Glade
+Sideboard
+1 Wild Slash
+1 Touch of the Void
 4 Thunderbreak Regent
 1 Goblin Heelcutter
 4 Flamewake Phoenix

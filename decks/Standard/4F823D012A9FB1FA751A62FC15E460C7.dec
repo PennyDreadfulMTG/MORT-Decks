@@ -5,13 +5,13 @@ Solar_Flare
 2 Phantasmal Image
 3 Snapcaster Mage
 2 Sun Titan
-2 Wurmcoil Engine
-2 Celestial Purge
+1 Wurmcoil Engine
+1 Celestial Purge
 3 Doom Blade
 4 Forbidden Alchemy
 3 Mana Leak
 3 Think Twice
-3 Day of Judgment
+2 Day of Judgment
 3 Timely Reinforcements
 2 Unburial Rites
 1 Batterskull
@@ -25,6 +25,10 @@ Solar_Flare
 5 Plains
 2 Seachrome Coast
 1 Swamp
+Sideboard
+1 Wurmcoil Engine
+1 Celestial Purge
+1 Day of Judgment
 1 Azure Mage
 1 Consecrated Sphinx
 2 Dissipate

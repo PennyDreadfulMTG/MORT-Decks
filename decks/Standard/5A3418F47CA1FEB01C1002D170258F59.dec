@@ -1,6 +1,6 @@
 2010-11-26T00:00:00
 Standard
-UB_Control
+UB_Control_with_Persecutor
 4 Creeping Tar Pit
 4 Darkslick Shores
 4 Drowned Catacomb
@@ -14,7 +14,7 @@ UB_Control
 1 Grave Titan
 2 Sea Gate Oracle
 2 Consuming Vapors
-4 Disfigure
+2 Disfigure
 4 Doom Blade
 2 Everflowing Chalice
 2 Into the Roil
@@ -22,7 +22,10 @@ UB_Control
 4 Jace, the Mind Sculptor
 4 Mana Leak
 4 Preordain
-2 Volition Reins
+1 Volition Reins
+Sideboard
+2 Disfigure
+1 Volition Reins
 3 Consume the Meek
 2 Duress
 3 Memoricide
