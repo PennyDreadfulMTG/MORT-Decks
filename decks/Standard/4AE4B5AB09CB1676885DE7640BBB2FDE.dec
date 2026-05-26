@@ -3,15 +3,15 @@ Standard
 Necro_Control
 2 Mind Warp
 4 Drain Life
-4 Stupor
-4 Contagion
+3 Stupor
+3 Contagion
 2 Lake of the Dead
 1 Hymn to Tourach
 1 Ihsan's Shade
 2 Demonic Consultation
 4 Hypnotic Specter
 4 Necropotence
-2 Serrated Arrows
+1 Serrated Arrows
 1 Strip Mine
 1 Zuran Orb
 4 Nevinyrral's Disk
@@ -20,6 +20,10 @@ Necro_Control
 4 Dark Ritual
 2 Sengir Vampire
 18 Swamp
+Sideboard
+1 Stupor
+1 Contagion
+1 Serrated Arrows
 4 Dystopia
 3 Infernal Darkness
 1 Lodestone Bauble
