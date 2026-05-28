@@ -3,7 +3,7 @@ Standard
 UW_Control
 3 Fumigate
 3 Approach of the Second Sun
-3 Negate
+1 Negate
 3 Settle the Wreckage
 4 Supreme Will
 4 Opt
@@ -11,7 +11,7 @@ UW_Control
 3 Unsummon
 3 Essence Scatter
 4 Glimmer of Genius
-3 Search for Azcanta
+2 Search for Azcanta
 4 Cast Out
 1 Field of Ruin
 4 Irrigated Farmland
@@ -19,6 +19,9 @@ UW_Control
 8 Plains
 6 Island
 2 Ipnu Rivulet
+Sideboard
+2 Negate
+1 Search for Azcanta
 4 Slash of Talons
 3 Regal Caracal
 2 Jace's Defeat
