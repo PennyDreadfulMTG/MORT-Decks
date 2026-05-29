@@ -1,10 +1,10 @@
 2018-08-25T00:00:00
 Modern
-***Jeskai Control
+Jeskai_Control
 1 Jace, the Mind Sculptor
 1 Secure the Wastes
 1 Search for Azcanta
-2 Negate
+1 Negate
 2 Settle the Wreckage
 2 Teferi, Hero of Dominaria
 2 Electrolyze
@@ -27,6 +27,7 @@ Modern
 2 Sulfur Falls
 4 Island
 4 Flooded Strand
+Sideboard
 1 Vendilion Clique
 1 Dispel
 2 Surgical Extraction
@@ -35,4 +36,5 @@ Modern
 2 Damping Sphere
 3 Spreading Seas
 2 Ceremonious Rejection
-1 Wear / Tear
+1 Wear/Tear
+1 Negate

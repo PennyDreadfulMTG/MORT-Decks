@@ -4,7 +4,7 @@ Monastery
 2 Jace, Vryn's Prodigy
 4 Monastery Mentor
 1 Demonic Tutor
-4 Fragmentize
+1 Fragmentize
 1 Gitaxian Probe
 1 Merchant Scroll
 3 Night's Whisper
@@ -15,13 +15,13 @@ Monastery
 1 Ancestral Recall
 1 Brainstorm
 1 Dig Through Time
-3 Flusterstorm
+1 Flusterstorm
 4 Force of Will
 1 Gush
 4 Mental Misstep
 1 Mindbreak Trap
 1 Spell Pierce
-4 Swords to Plowshares
+3 Swords to Plowshares
 1 Black Lotus
 1 Mox Emerald
 1 Mox Jet
@@ -37,6 +37,10 @@ Monastery
 1 Strip Mine
 3 Tundra
 3 Underground Sea
+Sideboard
+3 Fragmentize
+2 Flusterstorm
+1 Swords to Plowshares
 4 Grafdigger's Cage
 2 Kambal, Consul of Allocation
 1 Plains
