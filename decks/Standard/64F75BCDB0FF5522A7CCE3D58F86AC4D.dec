@@ -1,16 +1,16 @@
 2016-12-09T00:00:00
 Standard
-Golgari_Aggro
+Golgari_Control
 3 Liliana, the Last Hope
-2 Emrakul, the Promised End
+1 Emrakul, the Promised End
 4 Grim Flayer
 3 Ishkanah, Grafwidow
 3 Mindwrack Demon
 1 Noxious Gearhulk
 2 Pilgrim's Eye
-2 Tireless Tracker
+1 Tireless Tracker
 2 Ruinous Path
-4 Transgress the Mind
+2 Transgress the Mind
 4 Traverse the Ulvenwald
 3 Grapple with the Past
 4 Grasp of Darkness
@@ -21,6 +21,10 @@ Golgari_Aggro
 6 Forest
 4 Hissing Quagmire
 7 Swamp
+Sideboard
+1 Emrakul, the Promised End
+1 Tireless Tracker
+2 Transgress the Mind
 2 Appetite for the Unnatural
 3 Dead Weight
 2 Natural State

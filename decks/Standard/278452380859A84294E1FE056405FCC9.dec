@@ -4,11 +4,11 @@ UB_Control
 1 Pearl Lake Ancient
 3 Ashiok, Nightmare Weaver
 2 Despise
-3 Thoughtseize
-4 Negate
-3 Disdainful Stroke
-4 Bile Blight
-3 Drown in Sorrow
+2 Thoughtseize
+1 Negate
+2 Disdainful Stroke
+3 Bile Blight
+1 Drown in Sorrow
 4 Hero's Downfall
 4 Dissolve
 4 Perilous Vault
@@ -24,6 +24,12 @@ UB_Control
 1 Opulent Palace
 1 Urborg, Tomb of Yawgmoth
 4 Polluted Delta
+Sideboard
+1 Thoughtseize
+3 Negate
+1 Disdainful Stroke
+1 Bile Blight
+2 Drown in Sorrow
 1 Dark Betrayal
 1 Pharika's Cure
 1 Prognostic Sphinx

@@ -1,9 +1,9 @@
 2016-10-22T00:00:00
 Standard
-Golgari_Aggro
+Abzan_Control
 1 Traverse the Ulvenwald
-2 Ruinous Path
-2 Declaration in Stone
+1 Ruinous Path
+1 Declaration in Stone
 1 Pulse of Murasa
 1 Skywhaler's Shot
 1 Blessed Alliance
@@ -14,7 +14,7 @@ Golgari_Aggro
 1 Essence Extraction
 2 Gideon, Ally of Zendikar
 2 Grasp of Darkness
-3 Fumigate
+2 Fumigate
 2 Grapple with the Past
 1 Cataclysmic Gearhulk
 1 Emrakul, the Promised End
@@ -36,6 +36,7 @@ Golgari_Aggro
 3 Plains
 3 Evolving Wilds
 4 Swamp
+Sideboard
 1 Ulamog, the Ceaseless Hunger
 2 Fragmentize
 1 Appetite for the Unnatural
@@ -46,3 +47,6 @@ Golgari_Aggro
 1 Transgress the Mind
 1 Noxious Gearhulk
 1 Skysovereign, Consul Flagship
+1 Ruinous Path
+1 Declaration in Stone
+1 Fumigate

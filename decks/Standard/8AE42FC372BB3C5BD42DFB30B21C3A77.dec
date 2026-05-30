@@ -1,6 +1,6 @@
 2012-05-20T00:00:00
 Standard
-Gr_Aggro
+RUG_Pod
 1 Solemn Simulacrum
 1 Wurmcoil Engine
 1 Phyrexian Metamorph
@@ -12,7 +12,7 @@ Gr_Aggro
 2 Acidic Slime
 2 Deceiver Exarch
 1 Viridian Emissary
-2 Zealous Conscripts
+1 Zealous Conscripts
 3 Huntmaster of the Fells
 2 Phantasmal Image
 1 Vorapede
@@ -27,6 +27,8 @@ Gr_Aggro
 1 Rootbound Crag
 4 Hinterland Harbor
 4 Copperline Gorge
+Sideboard
+1 Zealous Conscripts
 2 Daybreak Ranger
 1 Tree of Redemption
 1 Dungeon Geists

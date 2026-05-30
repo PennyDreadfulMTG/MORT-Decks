@@ -1,6 +1,6 @@
 2012-08-09T00:00:00
 Standard
-UW_Miracle
+UW_Control
 1 Evolving Wilds
 3 Ghost Quarter
 4 Glacial Fortress
@@ -8,10 +8,10 @@ UW_Miracle
 7 Plains
 4 Seachrome Coast
 3 Day of Judgment
-2 Dissipate
+1 Dissipate
 4 Entreat the Angels
 2 Gideon Jura
-4 Oblivion Ring
+3 Oblivion Ring
 4 Ponder
 3 Pristine Talisman
 1 Tamiyo, the Moon Sage
@@ -19,8 +19,12 @@ UW_Miracle
 4 Terminus
 4 Think Twice
 2 Thought Scour
-3 Timely Reinforcements
+1 Timely Reinforcements
 1 Visions of Beyond
+Sideboard
+1 Dissipate
+1 Oblivion Ring
+2 Timely Reinforcements
 4 Celestial Purge
 2 Divine Offering
 1 Jace, Memory Adept
