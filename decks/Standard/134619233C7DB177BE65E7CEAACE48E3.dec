@@ -3,9 +3,9 @@ Standard
 UB_Control
 3 Swamp
 1 Despise
-2 Jace Beleren
-2 Consume the Meek
-3 Duress
+1 Jace Beleren
+1 Consume the Meek
+2 Duress
 2 Into the Roil
 2 Dismember
 2 Liliana Vess
@@ -24,6 +24,7 @@ UB_Control
 4 Drowned Catacomb
 4 Tectonic Edge
 4 Island
+Sideboard
 2 Disfigure
 2 Memoricide
 2 Consecrated Sphinx
@@ -31,3 +32,6 @@ UB_Control
 1 Deprive
 2 Black Sun's Zenith
 1 Doom Blade
+1 Jace Beleren
+1 Consume the Meek
+1 Duress

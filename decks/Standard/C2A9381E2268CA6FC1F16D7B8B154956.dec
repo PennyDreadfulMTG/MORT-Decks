@@ -2,7 +2,7 @@
 Standard
 UW_Delver
 1 Mutagenic Growth
-2 Gut Shot
+1 Gut Shot
 1 Dismember
 1 Gitaxian Probe
 3 Runechanter's Pike
@@ -11,7 +11,7 @@ UW_Delver
 4 Mana Leak
 4 Ponder
 2 Merfolk Looter
-4 Dungeon Geists
+3 Dungeon Geists
 4 Snapcaster Mage
 4 Delver of Secrets
 4 Geist of Saint Traft
@@ -20,6 +20,7 @@ UW_Delver
 4 Glacial Fortress
 4 Seachrome Coast
 9 Island
+Sideboard
 1 Oblivion Ring
 2 Phantasmal Image
 1 Negate
@@ -30,3 +31,5 @@ UW_Delver
 1 Ratchet Bomb
 1 Sword of Feast and Famine
 1 Sword of War and Peace
+1 Gut Shot
+1 Dungeon Geists
