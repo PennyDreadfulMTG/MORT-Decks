@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - id: compute_tag
-        uses: craig-day/compute-tag@v10
+        uses: craig-day/compute-tag@v20
         with:
           github_token: ${{ github.token }}
           version_type: patch
