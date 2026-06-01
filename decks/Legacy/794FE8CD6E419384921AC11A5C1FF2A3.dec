@@ -1,6 +1,6 @@
 2017-11-08T00:00:00
 Legacy
-BUG_Aggro_/_Midrange
+Shardless_BUG
 1 Creeping Tar Pit
 3 Wasteland
 1 Jace, the Mind Sculptor
@@ -14,18 +14,19 @@ BUG_Aggro_/_Midrange
 1 Island
 1 Forest
 1 Swamp
-2 Toxic Deluge
+1 Toxic Deluge
 3 Hymn to Tourach
 3 Ancestral Vision
 2 Abrupt Decay
 4 Force of Will
 4 Brainstorm
-4 Fatal Push
+2 Fatal Push
 2 Leovold, Emissary of Trest
 4 Shardless Agent
 4 Tarmogoyf
 2 Baleful Strix
 4 Deathrite Shaman
+Sideboard
 1 Maelstrom Pulse
 3 Thoughtseize
 1 Garruk Relentless
@@ -33,3 +34,5 @@ BUG_Aggro_/_Midrange
 2 Surgical Extraction
 2 Grafdigger's Cage
 1 Pithing Needle
+1 Toxic Deluge
+2 Fatal Push

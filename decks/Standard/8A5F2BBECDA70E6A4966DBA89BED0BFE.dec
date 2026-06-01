@@ -10,7 +10,7 @@ UW_Control
 1 Elixir of Immortality
 2 Elspeth, Sun's Champion
 3 Jace, Architect of Thought
-3 Jace, Memory Adept
+1 Jace, Memory Adept
 3 Negate
 2 Quicken
 4 Sphinx's Revelation
@@ -19,6 +19,8 @@ UW_Control
 7 Island
 4 Hallowed Fountain
 2 Azorius Guildgate
+Sideboard
+2 Jace, Memory Adept
 2 Blind Obedience
 2 Dispel
 4 Fiendslayer Paladin

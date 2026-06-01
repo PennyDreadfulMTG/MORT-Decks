@@ -1,6 +1,6 @@
 2013-08-01T00:00:00
 Standard
-UWr_Midrange
+UWx_Midrange
 4 Hallowed Fountain
 4 Sacred Foundry
 4 Steam Vents
@@ -11,7 +11,7 @@ UWr_Midrange
 1 Island
 2 Jace, Architect of Thought
 3 Supreme Verdict
-4 Pillar of Flame
+2 Pillar of Flame
 2 Dissipate
 2 Searing Spear
 2 Think Twice
@@ -19,11 +19,12 @@ UWr_Midrange
 3 Azorius Charm
 3 Sphinx's Revelation
 2 Syncopate
-2 Turn / Burn
+2 Turn/Burn
 2 Aetherling
 3 Augur of Bolas
 1 Snapcaster Mage
 3 Restoration Angel
+Sideboard
 1 Negate
 2 Counterflux
 2 Dispel
@@ -31,3 +32,4 @@ UWr_Midrange
 2 Detention Sphere
 3 Ratchet Bomb
 1 Pithing Needle
+2 Pillar of Flame
