@@ -9,7 +9,7 @@ Jace_Control
 1 Ancestral Recall
 1 Brainstorm
 1 Gifts Ungiven
-2 Nature's Claim
+1 Nature's Claim
 1 Thirst for Knowledge
 1 Vampiric Tutor
 3 Thoughtseize
@@ -20,7 +20,7 @@ Jace_Control
 1 Time Walk
 1 Ponder
 1 Merchant Scroll
-2 Duress
+1 Duress
 2 Sensei's Divining Top
 1 Mox Pearl
 1 Mox Jet
@@ -41,6 +41,9 @@ Jace_Control
 1 Polluted Delta
 1 Tolarian Academy
 2 Jace, the Mind Sculptor
+Sideboard
+1 Nature's Claim
+1 Duress
 3 Yixlid Jailer
 1 Mindbreak Trap
 2 Doom Blade

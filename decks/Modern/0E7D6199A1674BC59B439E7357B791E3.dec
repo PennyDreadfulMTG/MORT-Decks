@@ -1,6 +1,6 @@
 2016-09-17T00:00:00
 Modern
-***Grixis Delver
+Grixis_Delver
 1 Mountain
 1 Swamp
 3 Island
@@ -12,8 +12,8 @@ Modern
 4 Bloodstained Mire
 4 Polluted Delta
 1 Electrolyze
-2 Kolaghan's Command
-2 Collective Brutality
+1 Kolaghan's Command
+1 Collective Brutality
 2 Remand
 4 Delver of Secrets
 3 Snapcaster Mage
@@ -28,6 +28,7 @@ Modern
 3 Terminate
 3 Mana Leak
 1 Dreadbore
+Sideboard
 1 Rakdos Charm
 1 Izzet Staticaster
 1 Engineered Explosives
@@ -38,3 +39,5 @@ Modern
 1 Vandalblast
 1 Dispel
 2 Spell Pierce
+1 Kolaghan's Command
+1 Collective Brutality

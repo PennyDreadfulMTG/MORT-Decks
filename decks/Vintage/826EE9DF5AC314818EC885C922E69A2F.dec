@@ -7,13 +7,13 @@ Jace_Control
 1 Ancestral Recall
 1 Brainstorm
 1 Gifts Ungiven
-2 Nature's Claim
+1 Nature's Claim
 1 Thirst for Knowledge
 1 Vampiric Tutor
 3 Mana Drain
 4 Force of Will
 1 Demonic Tutor
-2 Duress
+1 Duress
 1 Merchant Scroll
 1 Ponder
 1 Time Walk
@@ -41,6 +41,9 @@ Jace_Control
 2 Tropical Island
 3 Underground Sea
 4 Misty Rainforest
+Sideboard
+1 Nature's Claim
+1 Duress
 2 Doom Blade
 1 Forest
 1 Mindbreak Trap

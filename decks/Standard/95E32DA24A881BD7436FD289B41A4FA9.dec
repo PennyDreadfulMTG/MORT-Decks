@@ -1,6 +1,6 @@
 2015-01-14T00:00:00
 Standard
-Abzan_Midrange
+Abzan_Control
 3 Elspeth, Sun's Champion
 1 Liliana Vess
 1 Sorin, Solemn Visitor
@@ -8,12 +8,12 @@ Abzan_Midrange
 1 Hornet Queen
 4 Siege Rhino
 4 Sylvan Caryatid
-2 End Hostilities
-3 Read the Bones
+1 End Hostilities
+2 Read the Bones
 4 Thoughtseize
 4 Abzan Charm
 4 Hero's Downfall
-3 Utter End
+2 Utter End
 1 Caves of Koilos
 3 Forest
 3 Llanowar Wastes
@@ -23,6 +23,10 @@ Abzan_Midrange
 4 Temple of Silence
 1 Urborg, Tomb of Yawgmoth
 4 Windswept Heath
+Sideboard
+1 End Hostilities
+1 Read the Bones
+1 Utter End
 1 Ajani, Mentor of Heroes
 2 Bile Blight
 3 Drown in Sorrow
