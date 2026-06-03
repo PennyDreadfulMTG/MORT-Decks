@@ -1,6 +1,6 @@
 2013-01-12T00:00:00
 Standard
-Jund_Midrange
+Jund_Control
 4 Farseek
 3 Bonfire of the Damned
 2 Abrupt Decay
@@ -8,7 +8,7 @@ Jund_Midrange
 4 Thragtusk
 3 Olivia Voldaren
 4 Huntmaster of the Fells
-4 Deathrite Shaman
+2 Deathrite Shaman
 4 Woodland Cemetery
 1 Swamp
 4 Rootbound Crag
@@ -20,10 +20,15 @@ Jund_Midrange
 4 Blood Crypt
 3 Ultimate Price
 1 Staff of Nin
-3 Sever the Bloodline
+1 Sever the Bloodline
 3 Searing Spear
-3 Rakdos's Return
-2 Garruk, Primal Hunter
+1 Rakdos's Return
+1 Garruk, Primal Hunter
+Sideboard
+2 Deathrite Shaman
 3 Slaughter Games
 2 Rolling Temblor
 3 Duress
+2 Sever the Bloodline
+2 Rakdos's Return
+1 Garruk, Primal Hunter

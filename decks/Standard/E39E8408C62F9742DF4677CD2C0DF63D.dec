@@ -1,12 +1,12 @@
 2011-05-29T00:00:00
 Standard
-RUG_Control
+RUG_Twin_Exarch
 4 Deceiver Exarch
 4 Lotus Cobra
 2 Oracle of Mul Daya
 2 Inferno Titan
-3 Consecrated Sphinx
-3 Nature's Claim
+2 Consecrated Sphinx
+2 Nature's Claim
 4 Explore
 4 Preordain
 3 Splinter Twin
@@ -21,6 +21,9 @@ RUG_Control
 2 Garruk Wildspeaker
 3 Jace, the Mind Sculptor
 1 Karn Liberated
+Sideboard
+1 Consecrated Sphinx
+1 Nature's Claim
 3 Obstinate Baloth
 3 Spell Pierce
 1 Flashfreeze

@@ -1,6 +1,6 @@
 2017-02-16T00:00:00
 Standard
-Mardu_Balista
+Mardu_Vehicle
 4 Spire of Industry
 1 Smoldering Marsh
 1 Shambling Vent
@@ -12,16 +12,17 @@ Mardu_Balista
 2 Aether Hub
 4 Heart of Kiran
 2 Aethersphere Harvester
-4 Gideon, Ally of Zendikar
+3 Gideon, Ally of Zendikar
 3 Inventor's Apprentice
 1 Pia Nalaar
 4 Scrapheap Scrounger
-2 Thalia, Heretic Cathar
+1 Thalia, Heretic Cathar
 4 Thraben Inspector
 4 Toolcraft Exemplar
 4 Veteran Motorist
-4 Fatal Push
+3 Fatal Push
 4 Unlicensed Disintegration
+Sideboard
 2 Skysovereign, Consul Flagship
 1 Shock
 2 Selfless Spirit
@@ -29,3 +30,6 @@ Mardu_Balista
 2 Fumigate
 1 Declaration in Stone
 2 Chandra, Torch of Defiance
+1 Gideon, Ally of Zendikar
+1 Thalia, Heretic Cathar
+1 Fatal Push

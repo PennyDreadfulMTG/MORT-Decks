@@ -7,9 +7,9 @@ Bant_Control
 2 Glacial Fortress
 1 Forest
 2 Cavern of Souls
-2 Terminus
+1 Terminus
 1 Syncopate
-4 Supreme Verdict
+3 Supreme Verdict
 3 Sphinx's Revelation
 2 Selesnya Charm
 3 Jace, Architect of Thought
@@ -19,7 +19,7 @@ Bant_Control
 2 Azorius Charm
 4 Thragtusk
 3 Restoration Angel
-4 Centaur Healer
+2 Centaur Healer
 2 Angel of Serenity
 4 Temple Garden
 4 Sunpetal Grove
@@ -27,6 +27,10 @@ Bant_Control
 1 Plains
 1 Kessig Wolf Run
 2 Think Twice
+Sideboard
+1 Terminus
+1 Supreme Verdict
+2 Centaur Healer
 1 Sigarda, Host of Herons
 2 Rest in Peace
 1 Ray of Revelation
