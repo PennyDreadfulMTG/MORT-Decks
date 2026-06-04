@@ -1,6 +1,6 @@
 2014-10-28T00:00:00
 Standard
-Mardu_Midrange
+Mardu_Control
 3 Sarkhan, the Dragonspeaker
 3 Sorin, Solemn Visitor
 4 Butcher of the Horde
@@ -10,7 +10,7 @@ Mardu_Midrange
 4 Crackling Doom
 4 Lightning Strike
 3 Stoke the Flames
-3 Chained to the Rocks
+2 Chained to the Rocks
 3 Battlefield Forge
 4 Bloodstained Mire
 2 Caves of Koilos
@@ -19,6 +19,8 @@ Mardu_Midrange
 1 Swamp
 2 Temple of Silence
 4 Temple of Triumph
+Sideboard
+1 Chained to the Rocks
 3 Anger of the Gods
 1 Banishing Light
 1 Chandra, Pyromaster

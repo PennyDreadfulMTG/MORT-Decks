@@ -1,6 +1,6 @@
 2014-04-14T00:00:00
 Modern
-***UR Delver
+UR_Aggro
 6 Island
 4 Misty Rainforest
 2 Mountain
@@ -9,10 +9,10 @@ Modern
 4 Delver of Secrets
 2 Grim Lavamancer
 3 Snapcaster Mage
-3 Vendilion Clique
+2 Vendilion Clique
 3 Young Pyromancer
-2 Deprive
-3 Dispel
+1 Deprive
+1 Dispel
 2 Forked Bolt
 4 Gitaxian Probe
 4 Lightning Bolt
@@ -21,6 +21,10 @@ Modern
 4 Serum Visions
 3 Spell Snare
 4 Vapor Snag
+Sideboard
+1 Vendilion Clique
+1 Deprive
+2 Dispel
 1 Batterskull
 1 Echoing Truth
 2 Hurkyl's Recall

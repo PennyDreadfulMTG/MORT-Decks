@@ -1,6 +1,6 @@
 2016-11-11T00:00:00
 Legacy
-Stoneblade
+True_Name_BUG
 2 Wasteland
 3 Underground Sea
 1 Tundra
@@ -10,11 +10,11 @@ Stoneblade
 2 Polluted Delta
 4 Misty Rainforest
 4 Flooded Strand
-4 Swords to Plowshares
+3 Swords to Plowshares
 2 Spell Pierce
 4 Force of Will
 4 Brainstorm
-4 Abrupt Decay
+3 Abrupt Decay
 4 Thoughtseize
 4 Ponder
 3 True-Name Nemesis
@@ -22,6 +22,9 @@ Stoneblade
 2 Snapcaster Mage
 4 Deathrite Shaman
 2 Jace, the Mind Sculptor
+Sideboard
+1 Swords to Plowshares
+1 Abrupt Decay
 3 Zealous Persecution
 3 Surgical Extraction
 1 Sower of Temptation

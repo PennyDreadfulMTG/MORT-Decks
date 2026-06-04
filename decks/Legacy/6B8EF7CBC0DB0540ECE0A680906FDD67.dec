@@ -1,11 +1,11 @@
 2015-03-13T00:00:00
 Legacy
-Grixis_Delver
-3 Cabal Therapy
+Grixis_Midrange
+1 Cabal Therapy
 1 Thoughtseize
 1 Murderous Cut
 1 Pyroblast
-2 Spell Pierce
+1 Spell Pierce
 1 Terminate
 2 Spell Snare
 2 Dig Through Time
@@ -28,6 +28,7 @@ Grixis_Delver
 3 Flooded Strand
 3 Polluted Delta
 4 Bloodstained Mire
+Sideboard
 2 Surgical Extraction
 2 Red Elemental Blast
 2 Pithing Needle
@@ -35,3 +36,5 @@ Grixis_Delver
 1 Null Rod
 1 Shattering Spree
 2 Grafdigger's Cage
+2 Cabal Therapy
+1 Spell Pierce

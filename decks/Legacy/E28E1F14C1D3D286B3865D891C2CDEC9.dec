@@ -1,6 +1,6 @@
 2017-10-14T00:00:00
 Legacy
-BUG_Aggro_/_Midrange
+BUG_Midrange
 3 Wasteland
 3 Verdant Catacombs
 4 Underground Sea
@@ -13,7 +13,7 @@ BUG_Aggro_/_Midrange
 4 Force of Will
 4 Fatal Push
 4 Brainstorm
-3 Abrupt Decay
+2 Abrupt Decay
 2 Thoughtseize
 4 Ponder
 4 Hymn to Tourach
@@ -23,6 +23,7 @@ BUG_Aggro_/_Midrange
 4 Deathrite Shaman
 2 Leovold, Emissary of Trest
 2 Snapcaster Mage
+Sideboard
 2 Toxic Deluge
 2 Surgical Extraction
 2 Spell Pierce
@@ -32,3 +33,4 @@ BUG_Aggro_/_Midrange
 2 Golgari Charm
 2 Flusterstorm
 1 Dead Weight
+1 Abrupt Decay
