@@ -17,7 +17,7 @@ jobs:
           version_type: patch
           version_scheme: semantic
       - name: Setup Python
-        uses: actions/setup-python@v6.2.0
+        uses: actions/setup-python@v7.0.0
       - run: python package.py
       - name: create release
         uses: ncipollo/release-action@v1.21.0
